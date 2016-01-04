@@ -3,19 +3,19 @@ gems: 						[jekyll-paginate]
 
 
 # Site Settings
-title: 						"Yuguo"
+title: 						"Yuguo.us"
 email: 						"me@yuguo.us"
-description: 				"《Web全栈工程师的自我修养》作者。"
+description: 				"腾讯 ISUX UI工程师团队leader，《Web全栈工程师的自我修养》作者。"
 baseurl: 					""
 logourl: 					"/files/common/avatar.jpg"
 fa-logo: 					"fa-camera-retro"
-paginate: 					5
+paginate: 					10
 
 
 # Author Settings
 author_name: 				"Yuguo"
 author_url: 				"http://yuguo.us"
-author_bio: 				"《Web全栈工程师的自我修养》作者。"
+author_bio: 				"腾讯 ISUX UI工程师团队leader，《Web全栈工程师的自我修养》作者。"
 author_email: 				"me@yuguo.us"
 author_image: 				"/files/common/avatar.jpg"
 

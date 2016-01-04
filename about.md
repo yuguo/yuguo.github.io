@@ -13,7 +13,7 @@ comments: false
 关于我
 ---
 
-我从2010年开始在腾讯工作，现在是腾讯[ISUX](http://isux.tencent.com)的前端团队leader，高级UI工程师，住在深圳。
+我从2010年开始在腾讯工作，现在是腾讯[ISUX](http://isux.tencent.com)的UI开发团队leader，高级UI工程师，住在深圳。
 
 喜欢写作，组织翻译了[《众妙之门3》](/weblog/isux-and-smashing-book/)和[《响应式web设计全流程解析》](/weblog/designers-should-learn-code/)，还写了一本[《Web全栈工程师的自我修养》](/weblog/full-stack-engineer/)。
 
@@ -37,11 +37,5 @@ comments: false
 * [豆瓣](http://douban.com/people/yuguo)
 * [微博](http://weibo.com/yuguous)
 * [简历](http://yuguo.us/profile)
-
-这是我的微信公众号：
-
-![微信公众号](/files/common/qrcode.jpg)
-
-我的QQ是289796721，加我的时候请注明理由。
 
 我的Email地址是me@yuguo.us。

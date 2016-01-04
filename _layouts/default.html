@@ -27,7 +27,7 @@
 
 	{% include footer.html %}
 
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="{{ "/assets/js/jquery.min.js" | prepend: site.baseurl }}"></script>
 	<script type="text/javascript">
 		var config = {
 			'disqus_shortname': '{{ site.theme_disqus_shortname }}',
