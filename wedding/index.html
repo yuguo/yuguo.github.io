@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>余果、周小平婚礼邀请函</title>
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<style>
+		html {min-height:100%;}
+		body {margin:0; padding:0; height:100%; }
+		.first-page img {max-width:100%; display: block;margin: 0 auto;}
+
+		.second-page img {max-width: 95%; display: block; margin:20px auto; box-shadow: 0 1px 2px #666;}
+		.third-page {padding:10px 20px; color:#666; border: 1px dashed #bbb; margin: 20px auto; width: 60%; line-height: 1.8;}
+		.bar {height: 37px; width: 50px; background-image: url('heart.png'); background-size: 50px 50px; background-repeat: no-repeat; margin: 20px auto;}
+		/* loading 
+------------------------------------------------------*/
+		#loading{width:60px;height:60px;text-align:center;font-size:10px;position:absolute;left:50%;margin-left:-25px;top:50%;margin-top:-30px;z-index:100}
+		#loading > div{background-color:#ad77ba;height:100%;width:6px;display:inline-block;-webkit-animation:stretchdelay 1.2s infinite ease-in-out;animation:stretchdelay 1.2s infinite ease-in-out;}
+		#loading .rect2{-webkit-animation-delay:-1.1s;animation-delay:-1.1s;}
+		#loading .rect3{-webkit-animation-delay:-1.0s;animation-delay:-1.0s;}
+		#loading .rect4{-webkit-animation-delay:-0.9s;animation-delay:-0.9s;}
+		#loading .rect5{-webkit-animation-delay:-0.8s;animation-delay:-0.8s;}@-webkit-keyframes stretchdelay{0%,40%,100%{-webkit-transform:scaleY(0.4)}20%{-webkit-transform:scaleY(1.0)}}
+		@keyframes stretchdelay{0%,40%,100%{transform:scaleY(0.4);-webkit-transform:scaleY(0.4);}20%{transform:scaleY(1.0);-webkit-transform:scaleY(1.0);}}
+
+	</style>
+</head>
+<body>
+
+	<div id="loading">
+		<div class="rect1"></div>
+		<div class="rect2"></div>
+		<div class="rect3"></div>
+		<div class="rect4"></div>
+		<div class="rect5"></div>
+	</div>
+
+
+	<div id="main" style="display:none;">
+	<!-- mp3 -->
+	<div style="display: none;">
+		<label id="playbox" class="on" onclick="mp3_play()">
+			<audio id="audio" autoplay="autoplay" loop="loop">
+				<source src="sugar.lite.mp3" type="audio/mpeg">
+			</audio>
+		</label>
+	</div>
+
+	<!-- 首页 -->
+	<div class="first-page">
+			<img src="pages/cover.png" alt="">
+			<div class="bar"></div>
+	</div>
+
+	<!-- 画册 -->
+	<div class="second-page">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/001.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/002.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/003.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/004.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/005.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/006.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/007.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/008.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/009.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/010.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/011.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/012.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/013.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/014.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/015.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/016.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/017.jpg">
+		<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="pages/018.jpg">
+
+	</div>
+
+	<!-- 邀请语 -->
+	<div class="third-page">
+		<p>余果和周小平真诚地邀请您参加我们的婚礼，望您百忙之中抽出空闲前来参加，您的光临和祝福是我们最大的荣耀。</p>
+		<ul>
+			<li>9月28日：湖北省汉川市西湖大道-碧海蓝天度假村 （新郎余果：18666228400）</li>
+			<li>10月3日：四川省德阳市罗江县（新娘周小平：18688719975）</li>
+		</ul>
+	</div>
+</div>
+
+	<script>
+	function init() {
+	var imgDefer = document.getElementsByTagName('img');
+	for (var i=0; i<imgDefer.length; i++) {
+	if(imgDefer[i].getAttribute('data-src')) {
+		imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+	} } }
+
+	window.onload = init;
+
+
+	//loading
+	var _img = new Image();
+	_img.src = "pages/cover.png";
+	_img.onload = function () {
+		setTimeout(function(){
+			document.getElementById('loading').style.display = "none";
+			document.getElementById('main').style.display = "block";
+		},2000);
+	};
+	</script>
+</body>
+</html>

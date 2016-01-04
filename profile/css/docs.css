@@ -1,0 +1,174 @@
+/*!
+ *
+ * Copyright 2012
+ * Licensed under the Apache License v2.0
+ * http://yuguo.us/profile
+ *
+ * 余果的简历
+ */
+
+body {color:#666;}
+.container {position: relative;}
+.top-fix {position: absolute;top:10px;right:0;}
+h2 {font-size:14px;}
+.container {margin-top:20px;margin-bottom:30px;}
+
+/* 无序列表 */
+.unstyled i,
+dt i  {margin-right:10px;}
+.unstyled li {margin-bottom:5px;}
+
+/* 基本列表 */
+.profile-list dt{padding:3px 0;font-weight:normal;width:110px;position: relative;text-align: left;}
+.profile-list dd {padding:3px 0;margin-left:80px;}
+
+/* 照片 */
+.photo {text-align: right;}
+.photo img {padding:5px;border:1px solid #bbb;}
+
+
+.cover {margin-bottom: 20px;}
+
+/* 技能 */
+.skills {}
+
+
+	/* 非IE */
+	.non-ie .skill {position:relative;float:left;margin-right:10px;height:120px;}
+	.non-ie .skill .skill-bar {display:block;border:2px solid #bc8f8f;height:80px;width:80px;border-radius:42px;padding:1px;-webkit-transform: rotate(-90deg);-moz-transform: rotate(-90deg);
+		  -ms-transform: rotate(-90deg);transform: rotate(-90deg);}
+	.non-ie .skill .skill-bar b {display:block;height:80px;width:80px;overflow:hidden;}
+	.non-ie .skill .skill-bar b b {display:block;background-color: green;height:80px;width:80px;border-radius:40px;position:relative;}
+	.non-ie .skill .skill-lv {color:#fff;font-size:14px;position:absolute;top:40px;left:0;width:86px;text-align:center;z-index:10;font-weight:bold;}
+	.non-ie .skill .skill-title {position:absolute;top:90px;left:0;width:86px;text-align:center;font-size:14px;}
+
+	/* IE8- */
+	.ie .skill {position:relative;}
+	.ie .skill-bar {display:block;border:0 none;height:20px;width:200px;padding:0;background-color:#efefef;}
+	.ie .skill-bar b {display:block;height:20px;background-color:#bbb;}
+	.ie .skill .skill-lv {position:absolute;top:18px;left:5px;color:#fff;}
+
+/* 时间线 */
+.profile-timeline dt {padding:3px 0;font-weight:normal;text-align:left;width:180px;}
+.profile-timeline dd {padding:3px 0;}
+
+/* 擅长 */
+.profile-focus li {float:left;margin:0 10px 5px 0;}
+
+/* 标签 */
+.tag {display: inline-block;
+    text-decoration: none;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+    padding: 4px 7px;
+    font-family: 'Helvetica Neue', helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    height: 14px;
+    vertical-align: middle;
+
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), inset 0 1px 0 0 rgba(255, 255, 255, 0.4);
+    -moz-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), inset 0 1px 0 0 rgba(255, 255, 255, 0.4);
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), inset 0 1px 0 0 rgba(255, 255, 255, 0.4);
+
+	color: #996633;
+    border: 1px solid #DDA13C;
+
+    background: rgb(238,177,75);
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2VlYjE0YiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjYzkxMmQiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top,  rgba(238,177,75,1) 0%, rgba(204,145,45,1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(238,177,75,1)), color-stop(100%,rgba(204,145,45,1)));
+    background: -webkit-linear-gradient(top,  rgba(238,177,75,1) 0%,rgba(204,145,45,1) 100%);
+    background: -o-linear-gradient(top,  rgba(238,177,75,1) 0%,rgba(204,145,45,1) 100%);
+    background: -ms-linear-gradient(top,  rgba(238,177,75,1) 0%,rgba(204,145,45,1) 100%);
+    background: linear-gradient(top,  rgba(238,177,75,1) 0%,rgba(204,145,45,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeb14b', endColorstr='#cc912d',GradientType=0 );
+}
+
+.tag:before {
+    content: '\2022';
+    color: #FFFFFF;
+    margin-right: 4px;
+    font-size: 15px;
+    line-height: 13px;
+    height: 13px;
+    vertical-align: text-top;
+
+    text-shadow: 0 -1px -1px rgba(0, 0, 0, 0.2);
+}
+
+.tag:hover {
+    text-decoration: none;
+
+    background: rgb(240,183,86);
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2YwYjc1NiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkNmEwNDQiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top,  rgba(240,183,86,1) 0%, rgba(214,160,68,1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(240,183,86,1)), color-stop(100%,rgba(214,160,68,1)));
+    background: -webkit-linear-gradient(top,  rgba(240,183,86,1) 0%,rgba(214,160,68,1) 100%);
+    background: -o-linear-gradient(top,  rgba(240,183,86,1) 0%,rgba(214,160,68,1) 100%);
+    background: -ms-linear-gradient(top,  rgba(240,183,86,1) 0%,rgba(214,160,68,1) 100%);
+    background: linear-gradient(top,  rgba(240,183,86,1) 0%,rgba(214,160,68,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0b756', endColorstr='#d6a044',GradientType=0 );
+}
+
+/*css3字体*/
+@font-face {
+    font-family: 'icomoon';
+    src:url('../fonts/icomoon.eot');
+    src:url('../fonts/icomoon.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/icomoon.svg#icomoon') format('svg'),
+        url('../fonts/icomoon.woff') format('woff'),
+        url('../fonts/icomoon.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+    font-family: 'icomoon';
+    content: attr(data-icon);
+    speak: none;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+[class^="icon-"]:before, [class*=" icon-"]:before {
+    font-family: 'icomoon';
+    font-style: normal;
+    speak: none;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+.icon-github:before {
+    content: "\e000";
+}
+.icon-twitter:before {
+    content: "\e001";
+}
+.icon-facebook:before {
+    content: "\e002";
+}
+.icon-home:before {
+    content: "\e003";
+}
+.icon-location:before {
+    content: "\e004";
+}
+.icon-user:before {
+    content: "\e005";
+}
+.icon-phone:before {
+    content: "\e006";
+}
+.icon-mail:before {
+    content: "\e007";
+}
+.icon-user-2:before {
+    content: "\e008";
+}
