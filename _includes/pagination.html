@@ -1,0 +1,12 @@
+<div class="pagination">
+	{% if paginator.next_page %}
+		<a href="{{ site.baseurl }}/page{{ paginator.next_page }}" class="smallbutton lightgray right"><span>Older Posts</span><i class="fa fa-chevron-right"></i></a>
+	{% endif %}
+	{% if paginator.previous_page %}
+		{% if paginator.previous_page == 1 %}
+			<a href="{{ site.baseurl }}" class="smallbutton lightgray left"><i class="fa fa-chevron-left"></i><span>Newer Posts</span></a>
+		{% else %}
+			<a href="{{ site.baseurl }}/page{{ paginator.previous_page }}" class="smallbutton lightgray left"><i class="fa fa-chevron-left"></i><span>Newer Posts</span></a>
+		{% endif %}
+	{% endif %}
+</div>
