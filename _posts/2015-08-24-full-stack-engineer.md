@@ -4,11 +4,13 @@ title: 我出书了，《Web全栈工程师的自我修养》
 date: 2015-08-24 00:50
 comments: true
 categories: [书]
+featured: true
+banner_image: /files/2015/08/full-stack-engineer.jpg
 ---
 
-![Web全栈工程师的自我修养 "Web全栈工程师的自我修养"](/files/2015/08/full-stack-engineer.jpg)
-
 经过大半年的写作和准备，我的第一本书，《Web全栈工程师的自我修养》已经正式出版，各大网店有售。如果卖得好，希望也可以在实体店看到。
+
+<!--more-->
 
 作为一个全职的软件工程师，我的本职工作是编写代码和软件，而不是写书。不过，通过我在腾讯的5年工作经验总结，我认为好的程序员的最终目标应该是，创作一个作品。
 
