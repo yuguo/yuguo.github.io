@@ -9,6 +9,7 @@ categories: [nodejs]
 
 本文是一个ppt分享的大纲，感谢[https://github.com/undoZen](https://github.com/undoZen)提供代码。
 
+<!--more-->
 
 什么是Bigpipe
 ---
