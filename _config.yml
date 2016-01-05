@@ -24,18 +24,20 @@ author_image: 				"/files/common/avatar.jpg"
 twitter_url: 				"https://twitter.com/yuguo"
 facebook_url: 				"https://www.facebook.com/yuguo"
 github_url:  				"https://github.com/yuguo"
-# youtube_url:  				"http://youtube.com"
-# dribbble_url:  				"http://dribbble.com"
-# googleplus_url: 			"http://google.com/plus"
-# instagram_url:  			"http://instagram.com"
-# pinterest_url:  			"http://pinterest.com"
-# linkedin_url:  				"http://linkedin.com"
+weibo_url: 					"http://weibo.com/yuguous"
+pocket_url: 				"https://getpocket.com/@fishguo321"
+youtube_url:  				""
+dribbble_url:  				""
+googleplus_url: 			""
+instagram_url:  			""
+pinterest_url:  			""
+linkedin_url:  				""
 
 
 # Theme Settings
 theme_disqus_shortname: 	"yuguo"
 theme_google_comments: 		false
-theme_analytics_id: 		""
+theme_analytics_id: 		"UA-741276-12"
 theme_reading_time: 		true
 theme_autoload_comments: 	false
 theme_always_show_nav: 		false
