@@ -3,7 +3,7 @@ layout: post
 title: 哪一种生活不美好？
 date: 2010-12-19 02:14
 comments: true
-categories: [哲学]
+categories: [水]
 ---
 生活总不是那么令人满意的。
 

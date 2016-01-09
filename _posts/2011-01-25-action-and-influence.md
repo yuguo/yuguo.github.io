@@ -3,7 +3,7 @@ layout: post
 title: 行为和影响
 date: 2011-01-25 00:47
 comments: true
-categories: [哲学]
+categories: [水]
 ---
 
 行为不等于影响。世俗往往不认同这个观点，他们认为有作出了行为即能产生影响，产生了影响即可推断出作出了行为。

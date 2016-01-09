@@ -3,7 +3,7 @@ layout: post
 title: 残忍的COC哲学
 date: 2013-01-25 00:35
 comments: true
-categories: [哲学]
+categories: [水]
 ---
 
 决定退出Clash of Clans世界了，因为沉迷一段时间之后，渐渐意识到CoC的残忍哲学：

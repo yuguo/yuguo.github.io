@@ -3,7 +3,7 @@ layout: post
 title: 概念的本土化比正确性更加重要
 date: 2011-01-22 16:22
 comments: true
-categories: [哲学]
+categories: [水]
 ---
 
 概念的正确性即是指概念在原产地的意思。它出生时代表什么，是什么用法，称之为“正确性”。

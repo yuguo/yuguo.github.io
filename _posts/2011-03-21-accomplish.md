@@ -3,7 +3,7 @@ layout: post
 title: 善始善终还是即时退出
 date: 2011-03-21 18:06
 comments: true
-categories: [哲学]
+categories: [水]
 ---
 <h3>善始善终？</h3>
 从小就被教育做事要善始善终，开始做一件事就要做完。

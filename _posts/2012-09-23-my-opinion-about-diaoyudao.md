@@ -3,7 +3,7 @@ layout: post
 title: 你就是那个被利用的
 date: 2012-09-23 11:04
 comments: true
-categories: [哲学]
+categories: [水]
 ---
 
 1. 从很久很久以前开始我就不认为我具有表达我对国家事务看法的权利。所以要是别人跟我说，你可以上街游行啦，我觉得这是个诱饵。

@@ -3,7 +3,7 @@ layout: post
 title: 开团购是为了啥
 date: 2011-03-25 10:47
 comments: true
-categories: [哲学]
+categories: [水]
 ---
 
 一家公司开团购，如果不是骗了钱就跑的，一般是为了两种目的：

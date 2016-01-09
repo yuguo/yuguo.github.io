@@ -3,7 +3,7 @@ layout: post
 title: 为什么飞机票越到后面买越贵
 date: 2011-05-18 00:49
 comments: true
-categories: [哲学]
+categories: [水]
 ---
 
 在高铁上跟melody讨论为啥飞机票越到后面买越贵，结论是原因主要有以下两点：
