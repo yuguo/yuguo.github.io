@@ -81,4 +81,7 @@ linode 的服务器一直是优质vps的代名词，价格不便宜，但是稳�
 
 除此之外，官方还提供了一些脚本等方式，不过如果你现在考虑把自己的 `jeyll` 站点部署到一台 `vps` 的话，最好的方式毫无疑问就是 `git` 。
 
+{% include image_caption.html imageurl="/files/2016/01/git-post-receive.png" title="git post receive" description="使用 git 的钩子（post-receive）来让服务器上的 git 接收到代码之后自动运行 jekyll。" %}
+
+
 参考：[Jekyll Deployment Methods](http://jekyllrb.com/docs/deployment-methods/) ， [使用git部署站点](/weblog/push-git-repository-to-server/)
