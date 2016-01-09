@@ -3,8 +3,7 @@ layout: post
 title: 爱上北上广深
 date: "2014-03-01 10:35"
 comments: true
-categories:
-  - 哲学
+categories: [水]
 weixin-image: /files/2014/03/money-flow.jpg
 published: true
 ---
