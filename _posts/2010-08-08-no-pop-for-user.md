@@ -3,7 +3,7 @@ layout: post
 title: 不要给用户弹出窗口
 date: 2010-08-08 13:17
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 
 之前按要求给产品经理做了一个Photoshop Action，她使用这个Action在特定的PSD上面运行的时候就会自动切出需要的图来，然后上传到CMS就可以自动生成一个网页了。这样她以后就可以自己做出需要的网站，而不用重构组来做了。

@@ -3,7 +3,7 @@ layout: post
 title: 960px宽的网格已经过时了？
 date: 2010-09-25 09:52
 comments: true
-categories: [CSS]
+categories: [front-end]
 ---
 
 这是最近发表在[Web Design Wall](http://www.webdesignerwall.com/)上的一篇文章，作者在为[Themify](http://themify.me/)设计主题的时候摒弃了传统的960px，大胆采用了自己的978px宽的网格。初看可能会觉得这个数字比较荒谬，不过想想我们的1024px宽的屏幕也会让不熟悉计算机原理的人觉得荒谬不是么？仔细阅读文章之后我发现这个宽度十分适合国外的13像素英文字体。而这个宽度是否适合国内中文字体的布局呢？请在本文后面留言。

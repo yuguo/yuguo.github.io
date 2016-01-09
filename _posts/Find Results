@@ -1,0 +1,181 @@
+Searching 298 files for "[cms]"
+
+/Users/yuguo/Sites/astro/_posts/2010-12-29-wordpress-child-theme.md:
+    4  date: 2010-12-29 13:33
+    5  comments: true
+    6: categories: [CMS]
+    7  ---
+    8  假想有如下情况：你喜欢一个别人创作的wordpress主题，它有很多自定义的功能。就像wp3.0默认的twentyten就有上传头图和背景图的功能，可以让用户进行一些自定义的设置。在wp越来越开放，越来越多功能的今天，我们作为普通的用户已经不可能掌握那么多的动作钩子和数据过滤器（Action hook and Filter hook）来定义后台了，所以我们就会在别人主题的基础上进行一些样式的修改或者功能的增加删除。
+
+/Users/yuguo/Sites/astro/_posts/2011-01-26-introducce-drupal.md:
+    4  date: 2011-01-26 11:15
+    5  comments: true
+    6: categories: [CMS]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2011-01-28-drupal-module.md:
+    4  date: 2011-01-28 14:19
+    5  comments: true
+    6: categories: [CMS]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2011-01-28-migrating-from-wordpress.md:
+    4  date: 2011-01-28 01:00
+    5  comments: true
+    6: categories: [CMS]
+    7  ---
+    8  <h2>从wordpress迁移到Drupal</h2>
+
+/Users/yuguo/Sites/astro/_posts/2011-03-04-write-a-book.md:
+    4  date: 2011-03-04 20:51
+    5  comments: true
+    6: categories: [CMS]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2011-05-19-what-are-the-most-common-pitfalls-for-a-beginner-drupal-user.md:
+    4  date: 2011-05-19 22:06
+    5  comments: true
+    6: categories: [CMS]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2011-08-19-custom-post-types.md:
+    4  date: 2011-08-19 11:23
+    5  comments: true
+    6: categories: [CMS]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2011-08-25-custom-wordpress-pagenav.md:
+    4  date: 2011-08-25 11:23
+    5  comments: true
+    6: categories: [CMS]
+    7  ---
+    8  <h2>起因</h2>
+
+/Users/yuguo/Sites/astro/_posts/2011-09-04-wordpress-architecture.md:
+    4  date: 2011-09-04 17:35
+    5  comments: true
+    6: categories: [CMS]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2011-09-27-cms-power-and-responsibility.md:
+    4  date: 2011-09-27 00:13
+    5  comments: true
+    6: categories: [CMS]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2012-02-03-make-a-waterfall-wordpress-theme-1.md:
+    4  date: 2012-02-03 18:25
+    5  comments: true
+    6: categories: [CMS]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2012-02-16-make-a-waterfall-wordpress-theme-2.md:
+    4  date: 2012-02-16 14:47
+    5  comments: true
+    6: categories: [CMS]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2012-06-18-how-to-tell-if-a-wordpress-theme-will-help-seo.md:
+    4  date: 2012-06-18 11:30
+    5  comments: true
+    6: categories: [CMS]
+    7  ---
+    8  
+
+13 matches across 13 files
+
+
+LinuxSearching 298 files for "[Linux]"
+
+/Users/yuguo/Sites/astro/_posts/2013-01-10-linux-philosophy.md:
+    4  date: 2013-01-10 00:05
+    5  comments: true
+    6: categories: [Linux]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2013-01-14-make-bootstrap.md:
+    4  date: 2013-01-14 12:05
+    5  comments: true
+    6: categories: [Linux]
+    7  ---
+    8  
+
+2 matches across 2 files
+
+
+Searching 298 files for "[开源]"
+
+/Users/yuguo/Sites/astro/_posts/2011-10-24-web-design-inspired-by-windows-8-ui.md:
+    4  date: 2011-10-24 18:02
+    5  comments: true
+    6: categories: [开源]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2011-11-06-win8-ui.md:
+    4  date: 2011-11-06 19:00
+    5  comments: true
+    6: categories: [开源]
+    7  ---
+    8  <ul>
+
+/Users/yuguo/Sites/astro/_posts/2012-07-07-a-cps-cms-build-with-taobao-api.md:
+    4  date: 2012-07-07 15:03
+    5  comments: true
+    6: categories: [开源]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2012-07-23-git-base.md:
+    4  date: 2012-07-23 21:20
+    5  comments: true
+    6: categories: [开源]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2012-07-29-open-source-code.md:
+    4  date: 2012-07-29 20:04
+    5  comments: true
+    6: categories: [开源]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2012-08-01-git-feature.md:
+    4  date: 2012-08-01 22:03
+    5  comments: true
+    6: categories: [开源]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2012-08-03-push-git-repository-to-server.md:
+    4  date: 2012-08-03 10:18
+    5  comments: true
+    6: categories: [开源]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2013-01-02-wordpress-to-jeykll.md:
+    4  date: 2013-01-02 18:17
+    5  comments: true
+    6: categories: [开源]
+    7  ---
+    8  
+
+/Users/yuguo/Sites/astro/_posts/2013-06-13-33pu-stop-update.md:
+    4  date: 2013-06-13 16:01
+    5  comments: true
+    6: categories: [开源]
+    7  ---
+    8  
+
+9 matches across 9 files

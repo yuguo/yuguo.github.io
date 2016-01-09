@@ -3,7 +3,7 @@ layout: post
 title: 写一本书
 date: 2011-03-04 20:51
 comments: true
-categories: [CMS]
+categories: [back-end]
 ---
 
 最近没有更新博客，而是在另一个我创建的站点（[http://rebuildpattern.com](http://rebuildpattern.com)）上更新一些技术内容。

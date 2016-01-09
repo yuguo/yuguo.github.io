@@ -3,7 +3,7 @@ layout: post
 title: css框架研究
 date: 2010-09-11 11:25
 comments: true
-categories: [CSS]
+categories: [front-end]
 ---
 
 这是对两周CSS框架研究工作的总结，以及一些关于分享会的感悟。

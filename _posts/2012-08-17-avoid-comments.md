@@ -3,7 +3,7 @@ layout: post
 title: 避免注释
 date: 2012-08-17 21:29
 comments: true
-categories: [编程]
+categories: [back-end]
 ---
 
 前段时间我准备开源<a href="https://github.com/yuguo/33pu">33pu</a>的代码的时候，觉得自己的代码不够清晰，所以加上了大量的phpdoc注释。

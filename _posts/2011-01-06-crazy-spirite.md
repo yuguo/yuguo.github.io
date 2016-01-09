@@ -3,7 +3,7 @@ layout: post
 title: 疯狂的雪碧图
 date: 2011-01-06 16:22
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 
 重构工程师是掌控天平的人。

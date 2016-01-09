@@ -3,7 +3,7 @@ layout: post
 title: 匹配项目的栅格化系统
 date: 2011-01-07 00:39
 comments: true
-categories: [CSS]
+categories: [front-end]
 ---
 <h2>一个前提</h2>
 当我们说<a href="http://960.gs">960gs</a>或者<a href="http://www.webdesignerwall.com/trends/960-grid-system-is-getting-old/">978gs</a>的时候，这个数字代表的是什么？要知道在栅格系统中栅格总宽度和可视宽度是不相等的，前者比后者打一个gutter的宽度。在960gs中，960是指栅格总宽度，在978gs中，978是指可视宽度。这一点小小的区别没有打成共识，可能会浪费大量的会议时间来争吵，主持人却不知道大家卡在哪里了。

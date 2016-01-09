@@ -3,7 +3,7 @@ layout: post
 title: 利用淘宝API构建淘宝客自动发布系统
 date: 2012-07-07 15:03
 comments: true
-categories: [开源]
+categories: [back-end]
 ---
 
 【更新】33号铺的源码已开源：<a href="https://github.com/yuguo/33pu">https://github.com/yuguo/33pu</a>

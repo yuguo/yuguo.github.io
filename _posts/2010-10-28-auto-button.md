@@ -3,7 +3,7 @@ layout: post
 title: 自适应按钮
 date: 2010-10-28 09:03
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 
 按钮大小或者宽度根据内容而自适应主要技术难点在于_圆角边框_和_渐变背景_在所有浏览器的兼容。本文分两部分来说明各种解决方案。

@@ -3,8 +3,9 @@ layout: post
 title: 腾讯五年
 date: 2015-07-28 19:59
 comments: true
-categories: [水]
-weixin-image: /files/2015/07/america.jpg
+categories: [总结]
+featured: true
+banner_image: /files/2015/07/america.jpg
 ---
 
 ​2010年，刚进入腾讯公司时候，似乎每天都能学到新东西，打个很俗的比方，就是跟干燥的海绵一样，吸收每一滴自己能接触到的水分。比如这篇文章[腾讯三年](/weblog/tencent-3-years/)，从中还是能看出当时的自己有满满的激情，以及，满满的优越感。从自己消费的内容（知乎，kindle）和产品（MacBook）中，能看出很骄傲的心态。简单地说，就是年轻爱装逼。

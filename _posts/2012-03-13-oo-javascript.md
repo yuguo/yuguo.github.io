@@ -3,7 +3,7 @@ layout: post
 title: JavaScript中的面向对象函数
 date: 2012-03-13 13:29
 comments: true
-categories: [JavaScript]
+categories: [front-end]
 ---
 
 最近在读《Object-Oriented JavaScript》，里面对于函数的介绍非常让人印象深刻。

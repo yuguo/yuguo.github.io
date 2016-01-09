@@ -3,7 +3,7 @@ layout: post
 title: 前端工业化2：缓存
 date: 2013-10-30 14:00
 comments: true
-categories: [前端]
+categories: [front-end]
 ---
 
 > There are only two hard things in Computer Science: cache invalidation and naming things.

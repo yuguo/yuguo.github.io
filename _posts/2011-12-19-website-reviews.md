@@ -3,7 +3,7 @@ layout: post
 title: 网站设计评审
 date: 2011-12-19 09:12
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 
 比起“<strong>网站设计评审</strong>”，我们更多的听说的一个词是“<strong>代码评审</strong>”。

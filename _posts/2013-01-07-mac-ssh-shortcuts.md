@@ -3,7 +3,7 @@ layout: post
 title: Mac中创建一个SSH快捷方式
 date: 2013-01-07 09:05
 comments: true
-categories: [服务器]
+categories: [back-end]
 ---
 
 在终端中连接SSH挺烦躁的：

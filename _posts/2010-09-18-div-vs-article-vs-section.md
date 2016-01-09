@@ -3,7 +3,7 @@ layout: post
 title: 关于div/article/section的区别
 date: 2010-09-18 17:35
 comments: true
-categories: [前端]
+categories: [front-end]
 ---
 
 关于html5中新元素section/article和div的区别，虽然有一种感觉应该用什么，但没有明确的指导。以下是html5doctor的文章中的一节，我觉得这一节非常精准地描述了三者的区别。

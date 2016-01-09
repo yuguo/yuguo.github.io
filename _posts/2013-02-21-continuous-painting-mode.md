@@ -3,7 +3,7 @@ layout: post
 title: 使用Chrome的持续绘制模式侦测页面绘制时间
 date: 2013-02-21 21:15
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 
 页面的**绘制**时间（paint time）是每一个前端开发都需要关注的的重要指标，它决定了你的页面流畅程度。

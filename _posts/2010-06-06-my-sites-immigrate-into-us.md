@@ -3,7 +3,7 @@ layout: post
 title: 博客移民，启用yuguo.us
 date: 2010-06-06 23:37
 comments: true
-categories: [服务器]
+categories: [back-end]
 ---
 
 喏，如你所见，之前的站点域名 http://yuguodesign.com 现在在国内显示“连接被重置”。查证之后发现是域名被block。

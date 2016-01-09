@@ -3,7 +3,7 @@ layout: post
 title: 用HTML5构建移动APP，时机到了
 date: 2013-02-07 21:15
 comments: true
-categories: [前端]
+categories: [front-end]
 ---
 之前我在翻译[《移动用户体验设计考虑的因素：“是Web，还是原生？”》](http://yuguo.us/weblog/web-or-native-2/)时，学习到的一个观点是：
 

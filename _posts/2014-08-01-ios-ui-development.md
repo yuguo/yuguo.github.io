@@ -3,7 +3,7 @@ layout: post
 title: iOS界面开发
 date: 2014-08-01 20:35
 comments: true
-categories: [ios]
+categories: [iOS]
 ---
 
 过去一个月我都在推进团队项目流程上的改变：把APP界面和逻辑分开开发，让两个团队去做自己擅长的事。

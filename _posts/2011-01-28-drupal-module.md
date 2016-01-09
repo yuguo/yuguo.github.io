@@ -3,7 +3,7 @@ layout: post
 title: Drupal模块
 date: 2011-01-28 14:19
 comments: true
-categories: [CMS]
+back-endcategories: [back-end]
 ---
 
 Drupal的核心是由一个轻量级的框架构成的。当你从drupal.org下载Drupal时，得到的就是Drupal核心。它负责提供基本的功能，用以支持系统的其它部分。

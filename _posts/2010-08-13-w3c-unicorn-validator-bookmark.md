@@ -3,7 +3,7 @@ layout: post
 title: W3C Unicorn Validator 书签
 date: 2010-08-13 12:53
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 
 今天发现W3C推出了一个新的验证工具：Unicorn（独角兽）。这真是一个有趣的名字，传闻HTC 未来 Windows Phone 7 手机的命名规则，全系列都将会使用艺术家的名字，比如莫扎特什么的，W3C是要走神话路线吗？据官方介绍，Unicorn是W3C的统一验证器，通过执行一系列的验证来帮助开发者改善他们的代码。

@@ -3,7 +3,7 @@ layout: post
 title: 如何正确设置缓存
 date: 2012-08-12 18:57
 comments: true
-categories: [前端]
+categories: [front-end]
 ---
 
 web页面变得越来越胖，这意味着更多脚本、样式、图片和flash。初次访问站点的访客不得不请求很多HTTP请求，但是可以通过设置Expire头来让这些文件缓存起来，避免重复的HTTP请求。Expire头经常用在图片上，但在脚本、样式和flash上都应使用这一技术。

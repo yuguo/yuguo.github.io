@@ -3,7 +3,7 @@ layout: post
 title: 自定义wordpress翻页
 date: 2011-08-25 11:23
 comments: true
-categories: [CMS]
+categories: [back-end]
 ---
 <h2>起因</h2>
 我的博客下面有这样的翻页条，它是基于一个叫做PageNavi的插件生成的。

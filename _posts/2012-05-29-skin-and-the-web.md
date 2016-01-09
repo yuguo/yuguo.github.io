@@ -3,7 +3,7 @@ layout: post
 title: 跟肤那些事儿
 date: 2012-05-29 12:17
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 
 Qzone是跟肤的，用户选择不同的皮肤的时候会看到不同的颜色。每一套“颜色”包括几种背景色、几种线条色、几种文字色、几种渐变色等。

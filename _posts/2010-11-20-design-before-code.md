@@ -3,7 +3,7 @@ layout: post
 title: 如何质疑设计稿
 date: 2010-11-20 15:19
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 
 所谓质疑设计稿，就是重构拿到设计稿之后不应该只是100%还原设计稿，而应该做更多的工作，对设计稿中一些值得推敲的地方多想一想为什么。

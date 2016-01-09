@@ -3,7 +3,7 @@ layout: post
 title: jQuery模板
 date: 2012-09-29 09:39
 comments: true
-categories: [JavaScript]
+categories: [front-end]
 ---
 
 之前写过一篇文章<a href="http://yuguo.us/weblog/javascript-template/">JavaScript模板入门</a>，在那篇文章中介绍了handlebar这个模板库，本文介绍另一种，对于熟悉jQuery语法的同学会用起来更方便，那就是jQuery模板，目前还在beta阶段。

@@ -3,7 +3,7 @@ layout: post
 title: 扩展jQuery：自定义Live函数
 date: 2011-04-27 20:39
 comments: true
-categories: [JavaScript]
+categories: [front-end]
 ---
 平时在使用jQuery进行AJAX操作的时候，新生成的元素事件会失效，有时候不得不重新绑定一下事件，但是这样做很麻烦。jQuery1.3增加了一个live()方法，下面是手册上的说明：
 

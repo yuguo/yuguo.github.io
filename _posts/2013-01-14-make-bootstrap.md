@@ -3,7 +3,7 @@ layout: post
 title: Bootstrap的编译机制
 date: 2013-01-14 12:05
 comments: true
-categories: [Linux]
+categories: [back-end]
 ---
 
 从开源代码中总是能找到无数的智慧。

@@ -3,7 +3,7 @@ layout: post
 title: PHP和DAO设计模式
 date: 2012-07-11 07:09
 comments: true
-categories: [PHP]
+categories: [back-end]
 ---
 
 DAO（Data Access Object，数据存取对象）设计模式对于从PHP和MySQL教程一步步走过来的人来说是一个新的概念。我们的编码中的一大部分就是用来解决数据（库）获取和操作。随着大数据的来临，和数据分析方法的进步，数据操作越来越重要。

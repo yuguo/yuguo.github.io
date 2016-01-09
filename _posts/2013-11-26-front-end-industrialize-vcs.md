@@ -3,7 +3,7 @@ layout: post
 title: 前端工业化3：VCS
 date: 2013-11-26 01:00
 comments: true
-categories: [前端]
+categories: [front-end]
 ---
 
 任何慎重地对待编程的程序员和团队都会使用VCS（主要是Git或者SVN），主要有这样几个作用：

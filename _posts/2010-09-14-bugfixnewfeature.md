@@ -3,7 +3,7 @@ layout: post
 title: bugfix+newfeature
 date: 2010-09-14 00:03
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 
 发现两个臭虫，解决之。

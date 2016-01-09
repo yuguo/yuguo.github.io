@@ -3,7 +3,7 @@ layout: post
 title: 主题开源：Architecture
 date: 2011-09-04 17:35
 comments: true
-categories: [CMS]
+categories: [back-end]
 ---
 
 我把我的博客主题开源了，根据小平的命名，主题名叫Architecture。

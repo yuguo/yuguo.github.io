@@ -3,7 +3,7 @@ layout: post
 title: 2011，感谢有你
 date: 2011-12-31 22:48
 comments: true
-categories: [年终总结]
+categories: [总结]
 ---
 Melody，马上就是2012了，过去的一年中欢笑汗水都是你陪我一起度过，2012也不许松开我的手。
 <a href="http://yuguo.us/files/2011/12/2011melody.jpg"><img class="aligncenter size-full wp-image-1098" title="2011melody" src="http://yuguo.us/files/2011/12/2011melody.jpg" alt=""   /></a>

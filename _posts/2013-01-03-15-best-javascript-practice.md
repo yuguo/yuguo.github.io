@@ -3,7 +3,7 @@ layout: post
 title: 15条JavaScript最佳实践
 date: 2013-01-03 01:05
 comments: true
-categories: [JavaScript]
+categories: [front-end]
 ---
 <p>本文档整理大部分公认的、或者少有争议的JavaScript良好书写规范（Best Practice）。一些显而易见的常识就不再论述（比如要用对象支持识别判断，而不是浏览器识别判断；比如不要嵌套太深）。条目顺序按重要级粗略的从高到低排列。</p><h2 id="js-at-bottom">把外部JavaScript文件放在HTML底部</h2><p>我们的目标是相同的：为用户尽可能快地显示内容。当载入一个脚本文件的时候，HTML会停止解析，直到脚本载入完毕。因此，用户可能会长时间对着一个空白的屏幕，看上去什么都没有发生。如果你的JavaScript代码只是增加一些功能（比如按钮的点击动作），那么尽管大胆地把文件引用放在HTML底部吧（就在&lt;/body&gt;之前），你会看到明显的速度提升。如果是用于其他目的的脚本文件，则需要慎重地考虑。但无论如何，这毫无疑问是一个非常值得考虑的地方。</p><h2 id="optimize-for-statement">优化循环</h2><p>循环遍历一个数组</p><pre class="badcode">//这段糟糕的代码会在每次进入循环的时候都计算一次数组的长度
 

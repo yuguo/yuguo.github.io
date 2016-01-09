@@ -3,7 +3,7 @@ layout: post
 title: 单入口、MVC和Restful Service
 date: 2012-04-19 20:00
 comments: true
-categories: [PHP]
+categories: [back-end]
 ---
 
 首先解释三个名词。

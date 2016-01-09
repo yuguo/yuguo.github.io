@@ -3,7 +3,7 @@ layout: post
 title: 泰国游
 date: 2011-08-17 23:43
 comments: true
-categories: [周记]
+categories: [旅游]
 ---
 
 跟着部门旅行团去了一次泰国。

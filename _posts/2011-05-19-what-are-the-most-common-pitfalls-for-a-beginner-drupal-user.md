@@ -3,7 +3,7 @@ layout: post
 title: 学习Drupal的一些误区
 date: 2011-05-19 22:06
 comments: true
-categories: [CMS]
+categories: [back-end]
 ---
 
 翻译自<a href="http://stackoverflow.com/questions/1791553/what-are-the-most-common-pitfalls-for-a-beginner-drupal-user">Stackoverflow</a>上面的一个问答。

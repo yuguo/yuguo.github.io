@@ -3,7 +3,7 @@ layout: post
 title: Flexbox的奇怪历史
 date: 2013-01-16 22:05
 comments: true
-categories: [CSS]
+categories: [front-end]
 ---
 
 其实现在很多前端同学都知道flexbox这个CSS3布局属性了，它可以方便地让我们做出水平和垂直的布局，而不是依赖于浮动。

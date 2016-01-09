@@ -3,7 +3,7 @@ layout: post
 title: 33号铺停止更新
 date: 2013-06-13 16:01
 comments: true
-categories: [开源]
+categories: [back-end]
 ---
 
 我遗憾地决定停止更新[33号铺](https://github.com/yuguo/33pu)，最主要的原因是根据[淘宝新规](http://club.alimama.com/read-htm-tid-4369390.html)，对于API权限有大幅度的削减，对于[API接口开发应用的准入条件](http://open.taobao.com/doc/detail.htm?id=139)修改为以下：

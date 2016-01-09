@@ -3,7 +3,7 @@ layout: post
 title: css框架[1]-oocss
 date: 2010-09-03 17:16
 comments: true
-categories: [CSS]
+categories: [front-end]
 ---
 ## 不使用CSS框架的理由
 

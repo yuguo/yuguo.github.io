@@ -3,7 +3,7 @@ layout: post
 title: Best Practice
 date: 2011-03-28 12:21
 comments: true
-categories: [编程]
+categories: [back-end]
 ---
 
 “最佳实践”是<strong>干一件事情的时候的采用的一种广泛被测试和接受的模式</strong>。这种方法往往不是唯一的，也不是某种情况下最好的。但大部分情况下，遵守这一方法或者策略肯定是正确的。

@@ -3,7 +3,7 @@ layout: post
 title: 做一个瀑布流的wordpress主题【1】
 date: 2012-02-03 18:25
 comments: true
-categories: [CMS]
+categories: [back-end]
 ---
 
 已经有这么多<strong>瀑布流</strong>的网站了，你一定也想自己做一个，我写这个系列教材是为了教你用wordpress这个世界上最好用的CMS来实现瀑布流的效果。

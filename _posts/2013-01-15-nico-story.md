@@ -3,7 +3,7 @@ layout: post
 title: 听Nico讲故事
 date: 2013-01-15 00:05
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 
 Nico是广研设计部负责人，是做重构起家的leader，也是2012年腾讯新晋级的T4专家之一。前几天去听他的演讲，有所感悟，也欣赏这样的技术人，觉得搞技术的如果都有这样的责任和视野，那必然会在公司更有话语权。

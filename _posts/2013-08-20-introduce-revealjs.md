@@ -3,7 +3,7 @@ layout: post
 title: 介绍Reveal.js
 date: 2013-08-20 17:40
 comments: true
-categories: [javascript]
+categories: [front-end]
 ---
 
 jQuery reveal是最近在用的一个jQuery插件，作用是控制弹出层的显示和消失。这个插件非常轻量，而且使用简单，如果页面中已经加载了jQuery的话，只需要额外1.35k的大小就能使用reveal.js。

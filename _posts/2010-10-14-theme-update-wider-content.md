@@ -3,7 +3,7 @@ layout: post
 title: 主题更新：更宽的图片
 date: 2010-10-14 20:20
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 
 更新了一下主题，去掉了边栏，然后让图片全屏。

@@ -3,7 +3,7 @@ layout: post
 title: css框架[3]-960grids
 date: 2010-09-08 20:02
 comments: true
-categories: [CSS]
+categories: [front-end]
 ---
 
 960grids是一个欢乐的框架，极端理性+方便+易于维护，同时极端冗余，适用于设计师使用。

@@ -3,7 +3,7 @@ layout: post
 title: Linux哲学
 date: 2013-01-10 00:05
 comments: true
-categories: [Linux]
+categories: [back-end]
 ---
 
 因为在研究一个开源项目[fontello](https://github.com/fontello/fontello)，它是一个可以把很多开源字体聚合在一起，访客可以自由打包，选择自己项目需要的图标，最终下载一个完整的字体包，还有对应的CSS和demo页。

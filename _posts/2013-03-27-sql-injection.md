@@ -3,7 +3,7 @@ layout: post
 title: 数据库注入漏洞和XSS漏洞
 date: 2013-03-27 14:20
 comments: true
-categories: [PHP]
+categories: [back-end]
 ---
 
 v2ex上的一个热心网友使用我的开源程序“[33号铺](https://github.com/yuguo/33pu)”的时候发现程序存在SQL注入漏洞，然后邮件告知了我。

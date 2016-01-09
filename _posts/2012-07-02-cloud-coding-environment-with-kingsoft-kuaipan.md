@@ -3,7 +3,7 @@ layout: post
 title: 使用金山快盘部署云编码环境
 date: 2012-07-02 10:00
 comments: true
-categories: [编程]
+categories: [back-end]
 ---
 
 我有一个这样的需求：我有一个项目需要在公司电脑上编码，在家里的时候用大屏幕台式机来编码，而早上早起时候则使用MBP拿到阳台上去编码。

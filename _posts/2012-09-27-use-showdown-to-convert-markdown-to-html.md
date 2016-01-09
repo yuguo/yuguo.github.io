@@ -3,7 +3,7 @@ layout: post
 title: 使用Showdown来把markdown语法转化成html
 date: 2012-09-27 16:50
 comments: true
-categories: [前端]
+categories: [front-end]
 ---
 
 有的时候我们会有这样一种需求，我们有一个用markdown格式编写的文档，希望在一个页面上展示出来（很有可能是github），我不能用任何服务器端的语言，只能用静态数据和JavaScript。我也不希望使用任何桌面转义软件，因为这样每次发布都会很复杂——编写markdown，转义html，发布html。

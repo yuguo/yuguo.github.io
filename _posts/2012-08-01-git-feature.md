@@ -3,7 +3,7 @@ layout: post
 title: Git的优缺点
 date: 2012-08-01 22:03
 comments: true
-categories: [开源]
+categories: [back-end]
 ---
 
 前几天写了一篇<a href="http://yuguo.us/weblog/git-base/">git基础</a>，总结起来就是git是一种分布式版本管理工具，优点如下：

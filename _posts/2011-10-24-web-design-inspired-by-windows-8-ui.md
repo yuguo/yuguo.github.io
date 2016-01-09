@@ -3,7 +3,7 @@ layout: post
 title: Windows8 UI给web设计的启示
 date: 2011-10-24 18:02
 comments: true
-categories: [开源]
+categories: [back-end]
 ---
 
 Windows 8下载放出一段时间了，国外对Windows 8在网页设计中能够如何应用也有了一些研究型的文章。我个人对这种方方正正的设计非常喜欢，手机上的Android系统也是个方方正正的版本。

@@ -3,7 +3,7 @@ layout: post
 title: 避免figure元素的错误用法
 date: 2011-08-22 00:35
 comments: true
-categories: [前端]
+categories: [front-end]
 ---
 
 新的html5标签&lt;figure&gt;和&lt;figcaption&gt;有一些常用的错误用法。

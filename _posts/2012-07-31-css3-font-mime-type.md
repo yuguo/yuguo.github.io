@@ -3,7 +3,7 @@ layout: post
 title: CSS3字体的MIME TYPE
 date: 2012-07-31 12:37
 comments: true
-categories: [CSS]
+categories: [front-end]
 ---
 
 越深入研究CSS3字体这个话题，就越发现很多问题都处于空白或者争论状态，比如MIME TYPE。

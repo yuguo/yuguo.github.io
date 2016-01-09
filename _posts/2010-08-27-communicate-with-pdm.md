@@ -3,7 +3,7 @@ layout: post
 title: 如何和产品经理交流
 date: 2010-08-27 00:58
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 
 今天参加了<a href="http://www.misuisui.com/weblog/" target="_blank">米随随</a>的培训课程《如何和产品经理交流》，灰常实用，上午的课程下午回来就用上了。事情是这样的：

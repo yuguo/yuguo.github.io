@@ -3,7 +3,7 @@ layout: post
 title: 开源代码
 date: 2012-07-29 20:04
 comments: true
-categories: [开源]
+categories: [back-end]
 ---
 
 最近读文章：<a href="http://tom.preston-werner.com/2011/11/22/open-source-everything.html">open source everything</a>，作者是github的联合创始人Tom。他的其他文章都非常好，强烈推荐大家读一下。不过本文只是要谈谈我对开源软件的想法。

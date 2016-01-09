@@ -3,7 +3,7 @@ layout: post
 title: 知识管理和沉淀
 date: 2010-12-25 17:45
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 
 ## 工作

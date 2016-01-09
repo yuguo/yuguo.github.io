@@ -3,7 +3,7 @@ layout: post
 title: 关于CSS你知道的都是错的
 date: 2011-06-30 17:23
 comments: true
-categories: [CSS]
+categories: [front-end]
 ---
 
 最近刚在Kindle上读完的一本书，觉得还不错，做了PPT分享给大家。

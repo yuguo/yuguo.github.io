@@ -3,7 +3,7 @@ layout: post
 title: jQuery要杀死js了
 date: 2012-04-20 17:43
 comments: true
-categories: [JavaScript]
+categories: [front-end]
 ---
 
 今天在stackoverflow上看到这么一个问题：

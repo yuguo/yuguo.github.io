@@ -3,7 +3,7 @@ layout: post
 title: 做一个框架
 date: 2013-01-08 00:05
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 其实从我入职实习到今天，历经3年，两个部门（多媒体到社交平台），3次大改版，每次都想产生一个规范，一方面能约束整站设计风格，给设计师参考给前端开发参考，另一方面也希望可以输出我们的设计风格，但是从来没有成功过，所以这次我们认真分析了下我们不能做出[bootstrap](http://twitter.github.com/bootstrap)的原因。
 

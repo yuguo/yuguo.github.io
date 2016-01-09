@@ -3,7 +3,7 @@ layout: post
 title: HTML5拖拽文件以及显示文件
 date: 2011-03-16 10:21
 comments: true
-categories: [前端]
+categories: [front-end]
 ---
 
 利用支持HTML5（具体是拖拽API和File API）的浏览器拖拽图片/音频文件到浏览器窗口指定区域来看到预览（还未上传），需要了解的知识主要是拖拽API，和通过拖拽事件获得File之后，对File进行相关信息读取。在HTML5出现之前读取文件信息操作往往是通过后台来实现，现在浏览器也具有了这样的能力，就能提供更好的用户体验。需要的知识大概如下：

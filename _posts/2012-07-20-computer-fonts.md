@@ -3,7 +3,7 @@ layout: post
 title: 字体是个深坑
 date: 2012-07-20 17:27
 comments: true
-categories: [CSS]
+categories: [front-end]
 ---
 <a href="http://yuguo.us/files/2012/07/2.png"><img class="aligncenter size-full wp-image-1282" title="2" src="http://yuguo.us/files/2012/07/2.png" alt=""   /></a>
 如图，左边是12号的Arial字体，右边是12号的宋体，为啥他们一个有边缘半透明一个没有呢？

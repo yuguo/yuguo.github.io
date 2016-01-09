@@ -3,7 +3,7 @@ layout: post
 title: 感谢老代码
 date: 2011-01-06 02:37
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 
 感谢糟糕的老代码。

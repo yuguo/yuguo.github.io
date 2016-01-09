@@ -3,7 +3,7 @@ layout: post
 title: 加强个人能力以避免沟通成本
 date: 2011-02-12 17:47
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 
 一部分更加灵活的类似模板的设计稿，设计师难以考虑到各种变量。文字是居左还是居中、文字长短不一如何处理就是一个常见的例子。

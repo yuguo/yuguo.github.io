@@ -3,7 +3,7 @@ layout: post
 title: 自定义Access-Control-Allow-Origin策略以解决字体文件跨域权限问题
 date: 2012-12-03 12:21
 comments: true
-categories: [前端]
+categories: [front-end]
 ---
 <h2>什么是Access-Control-Allow-Origin</h2>
 Access-Control-Allow-Origin是HTML5中定义的一种服务器端返回Response header，用来解决资源（比如字体）的跨域权限问题。

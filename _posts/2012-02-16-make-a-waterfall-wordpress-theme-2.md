@@ -3,7 +3,7 @@ layout: post
 title: 做一个瀑布流的wordpress主题【2】
 date: 2012-02-16 14:47
 comments: true
-categories: [CMS]
+categories: [back-end]
 ---
 
 上一篇已经实现了瀑布流wordpress主题的基本布局，接下来讲ajax加载内容。

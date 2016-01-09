@@ -3,7 +3,7 @@ layout: post
 title: wordpress子主题
 date: 2010-12-29 13:33
 comments: true
-categories: [CMS]
+categories: [back-end]
 ---
 假想有如下情况：你喜欢一个别人创作的wordpress主题，它有很多自定义的功能。就像wp3.0默认的twentyten就有上传头图和背景图的功能，可以让用户进行一些自定义的设置。在wp越来越开放，越来越多功能的今天，我们作为普通的用户已经不可能掌握那么多的动作钩子和数据过滤器（Action hook and Filter hook）来定义后台了，所以我们就会在别人主题的基础上进行一些样式的修改或者功能的增加删除。
 

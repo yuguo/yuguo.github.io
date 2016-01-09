@@ -3,7 +3,7 @@ layout: post
 title: CodeIgniter简介
 date: 2012-04-18 20:59
 comments: true
-categories: [PHP]
+categories: [back-end]
 ---
 <a href="http://codeigniter.org.cn/">CodeIgniter</a>是一个轻量又灵活的PHP框架，它有以下优点：
 <ul>

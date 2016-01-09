@@ -3,7 +3,7 @@ layout: post
 title: JavaScript模板入门
 date: 2012-09-02 17:49
 comments: true
-categories: [JavaScript]
+categories: [front-end]
 ---
 
 我最开始写过一个富交互的页面，其中的JavaScript代码包含了很多html标签。

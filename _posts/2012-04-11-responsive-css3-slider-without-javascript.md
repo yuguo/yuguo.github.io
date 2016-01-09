@@ -3,7 +3,7 @@ layout: post
 title: 实现纯CSS3幻灯片的一种思路
 date: 2012-04-11 01:59
 comments: true
-categories: [CSS]
+categories: [front-end]
 ---
 
 今天看到一个有意思的demo，用纯css3实现了幻灯片。

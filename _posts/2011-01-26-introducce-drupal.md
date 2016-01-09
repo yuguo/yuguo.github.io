@@ -3,7 +3,7 @@ layout: post
 title: 介绍Drupal
 date: 2011-01-26 11:15
 comments: true
-categories: [CMS]
+categories: [back-end]
 ---
 
 Drupal是一个相当不错的CMS。在这几年CMS的蓬勃发展中，他跟wordpress一起发展壮大起来，这说明在CMS业不会有一家独大的现象，每个站点都有适合自己的系统。在认识Drupal之前我用过的几个CMS都是以博客为主的系统——比如wordpress，而如果希望用以博客为主的CMS来做新闻站点或者类目复杂一点的信息发布站点就会比较麻烦。当然了，完全可以用不是那么适合的工具做出各种类型的站点，但那只能说明开发者牛叉并且很爱折腾。我觉得以显示自己技术的折腾都是耍流氓，所以我开始使用Drupal。

@@ -3,7 +3,7 @@ layout: post
 title: 学用代码片段
 date: 2011-09-01 14:48
 comments: true
-categories: [编程]
+categories: [back-end]
 ---
 
 之前写过一篇文章<a href="http://yuguo.us/weblog/emeditor-snippet/">《EmEditor代码片段插件介绍》</a>，现在项目越来越多，越来越大，不再用EmEditor，而用IntelliJ IDEA。这个IDE能管理项目，而且也有类似的代码片段功能——Live Template。本文主要就是关于Live Template（模版）。

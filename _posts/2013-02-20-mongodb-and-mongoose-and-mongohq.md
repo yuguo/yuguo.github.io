@@ -3,7 +3,7 @@ layout: post
 title: MongoDB、Mongoose和MongoHQ
 date: 2013-02-20 19:15
 comments: true
-categories: [数据库]
+categories: [back-end]
 ---
 
 我在我最新的App中使用了nodejs+MongoDB来作为服务器端，同时把代码部署在[Heroku](http://heroku.com)上面。好处就是方便扩展，在app发布初期可能没什么用户（也许一直都不会有啊囧），这时候我可以免费使用云平台（PaaS）的资源，而不必花钱购买昂贵的VPS，同时浪费VPS的CPU和内存，以及带宽。而幸运地话，如果用户增加，我也可以方便地在云平台上扩容。

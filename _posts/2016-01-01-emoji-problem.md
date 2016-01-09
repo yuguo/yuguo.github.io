@@ -3,7 +3,7 @@ layout: post
 title: Emoji-移动时代的巴别塔危机
 date: 2016-01-01 00：01
 comments: true
-categories: [Emoji]
+categories: [front-end]
 keywords: Emoji, 苹果, 微软, Android, 区别
 featured: true
 banner_image: /files/2015/12/emoji.jpg

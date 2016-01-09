@@ -3,7 +3,7 @@ layout: post
 title: 不患莫己知，求为可知也
 date: 2011-08-04 12:25
 comments: true
-categories: [引用]
+categories: [书]
 ---
 
 子曰：“不患无位，患所以立；不患莫己知，求为可知也。”

@@ -1,0 +1,23 @@
+.posts article section .tag-box {
+    margin: 0 0 20px;
+    line-height: 1;
+
+    a {
+        padding: 7px 13px !important;
+        font-family: "Proxima Nova","proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif !important;
+        display: inline-block;
+        font-size: 13px;
+        font-weight: 600;
+        border: none;
+        border-radius: 2px;
+        background-color: #ddd;
+        margin-bottom: 10px;
+        cursor: pointer;
+        margin-right: 10px;
+        color: #777;
+    }
+    :hover {
+        background-color: #CDC81E;
+        color: white;
+    }
+}

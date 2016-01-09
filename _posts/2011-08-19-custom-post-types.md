@@ -3,7 +3,7 @@ layout: post
 title: Custom Post Types
 date: 2011-08-19 11:23
 comments: true
-categories: [CMS]
+categories: [back-end]
 ---
 
 wordpress 3.0开始引入了一个新的特性叫做Custom Post Types。

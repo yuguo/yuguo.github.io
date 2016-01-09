@@ -3,7 +3,7 @@ layout: post
 title: CSS3 @font-face 语法分析
 date: 2012-07-30 09:39
 comments: true
-categories: [CSS]
+categories: [front-end]
 ---
 
 使用CSS3自定义字体的时候，为了兼容所有浏览器，服务器需要输出4种格式的字体，分别是eot、svg、ttf和woff。

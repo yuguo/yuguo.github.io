@@ -3,7 +3,7 @@ layout: post
 title: 非即时沟通技巧
 date: 2010-11-25 11:36
 comments: true
-categories: [做需求]
+categories: [front-end]
 ---
 
 让我们承认吧，IM一点也不即时。

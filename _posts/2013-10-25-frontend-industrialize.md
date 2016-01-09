@@ -3,7 +3,7 @@ layout: post
 title: 前端工业化1：自动化
 date: 2013-10-25 14:00
 comments: true
-categories: [前端]
+categories: [front-end]
 ---
 
 最近在学习百度前端工程师张云龙的F.I.S系统的时候，了解到他关于“前端工业化”的理解，我也经历过很多前端架构方法和架构工具的变迁，所以希望借写这篇文章的机会，自己也整理一下。

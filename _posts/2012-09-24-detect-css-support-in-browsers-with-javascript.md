@@ -3,7 +3,7 @@ layout: post
 title: JavaScript快速检测浏览器对CSS3特性的支持
 date: 2012-09-24 16:01
 comments: true
-categories: [JavaScript]
+categories: [front-end]
 ---
 
 在项目中需要快速检测浏览器是否支持某CSS3特性，比如检测是否支持“transform”，然后我的布局会有两种完全不同的版式。

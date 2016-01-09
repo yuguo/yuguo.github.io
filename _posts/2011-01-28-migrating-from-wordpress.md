@@ -3,7 +3,7 @@ layout: post
 title: 从wordpress迁移到Drupal
 date: 2011-01-28 01:00
 comments: true
-categories: [CMS]
+categories: [back-end]
 ---
 <h2>从wordpress迁移到Drupal</h2>
 从wordpress迁移到Drupal是一个相当直观的过程，你的内容和评论都能直接迁移过来。但更复杂的一些设置则需要更多手动操作了。本质上来说，Drupal从wordpress站点的feed导入数据并生成node和词汇表。
