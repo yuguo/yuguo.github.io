@@ -7,7 +7,7 @@ categories: [front-end]
 keywords: jekyll, https, linode, gitpage
 ---
 
-对网站做的第二个优化就是支持 `https`，我不讲如何做了，网上有很多教程文章。我只谈谈为何要做吧。
+对网站做的第二个优化就是支持 `https`，因为网上有很多教程文章，我就不讲如何做了。我只谈谈为何要做吧。
 
 一、从**技术**的角度来讲，为了保护客户的信息，有一种技术称为安全资料传输层(SSL，Secure Socket Layer)，它会对在网路浏览器和网页服务器之间传输的资料进行加密。受到SSL保护的网址会以https:做为开头(而不是http: )，因此有些人会将SSL称为“HTTPS”。
 
