@@ -3,8 +3,10 @@ layout: post
 title: WordPress迁移到github(jeykll)
 date: 2013-01-02 18:17
 comments: true
-categories: [back-end]
+categories: [博客]
 ---
+
+<div class="warning">本文写于2013年1月，到现在，本站的服务器已经发生了变化，请以最新的文章为准😜。</div>
 
 昨天在WordPress的编辑器里写一篇关于jade语法的文章，因为有很多代码片段，有的需要格式化，有的只是要使用code标签。我在编辑模式和html模式下各种抓狂之后，我决定放弃WordPress，使用github。这样我就可以在我喜欢的编辑器中，用我熟悉的markdown语法来写博客。
 

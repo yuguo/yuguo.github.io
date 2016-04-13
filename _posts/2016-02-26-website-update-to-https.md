@@ -3,9 +3,11 @@ layout: post
 title: https 的好处
 date: 2016-02-26 01：00
 comments: true
-categories: [front-end]
+categories: [博客]
 keywords: jekyll, https, linode, gitpage
 ---
+
+<div class="warning">本文写于2016年2月，到现在，本站的服务器已经发生了变化，请以最新的文章为准😜。</div>
 
 对网站做的第二个优化就是支持 `https`，因为网上有很多教程文章，我就不讲如何做了。我只谈谈为何要做吧。
 

@@ -3,8 +3,11 @@ layout: post
 title: 使用git部署站点
 date: 2012-08-03 10:18
 comments: true
-categories: [back-end]
+categories: [博客]
 ---
+
+<div class="warning">本文写于2012年8月，到现在，本站的服务器已经发生了变化，请以最新的文章为准😜。</div>
+
 
 我最开始的时候迁移站点都是傻乎乎的用FTP一个文件一个文件上传，一个wordpress需要半小时，而且容易中断，后来<a href="http://ooxx.me/">damao</a>告诉我用wget这个神器，就发现其实可以通过SSH在服务器端直接做一些操作，速度非常快。
 
