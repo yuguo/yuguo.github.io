@@ -9,11 +9,11 @@ featured: true
 banner_image: /files/2016/01/joshua-tree-national-park.jpg
 ---
 
-<div class="warning">本文写于2016年1月，到现在，本站的服务器已经发生了变化，请以最新的文章为准😜。</div>
-
 新年新气象，本来只是想把站点从 gitpages 迁移到 linode 的VPS，结果根本停不下来，顺便升级了服务器的 linux 版本，更新了主题，然后支持了 `https`。
 
 <!--more-->
+
+<div class="warning">本文写于2016年1月，到现在，本站的服务器已经发生了变化，请以最新的文章为准😜。</div>
 
 ## 迁移到到 linode vps
 

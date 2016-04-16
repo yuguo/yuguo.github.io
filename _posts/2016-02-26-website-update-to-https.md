@@ -1,15 +1,13 @@
 ---
 layout: post
-title: https 的好处
+title: 为什么要支持 https
 date: 2016-02-26 01：00
 comments: true
 categories: [博客]
 keywords: jekyll, https, linode, gitpage
 ---
 
-<div class="warning">本文写于2016年2月，到现在，本站的服务器已经发生了变化，请以最新的文章为准😜。</div>
-
-对网站做的第二个优化就是支持 `https`，因为网上有很多教程文章，我就不讲如何做了。我只谈谈为何要做吧。
+网站为何要支持https？
 
 一、从**技术**的角度来讲，为了保护客户的信息，有一种技术称为安全资料传输层(SSL，Secure Socket Layer)，它会对在网路浏览器和网页服务器之间传输的资料进行加密。受到SSL保护的网址会以https:做为开头(而不是http: )，因此有些人会将SSL称为“HTTPS”。
 
