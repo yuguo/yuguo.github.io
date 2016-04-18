@@ -4,8 +4,8 @@ title: 小站升级：迁移到 linode
 date: 2016-01-08 15：51
 comments: true
 categories: [博客]
+tags: featured
 keywords: jekyll, https, linode, gitpage
-featured: true
 banner_image: /files/2016/01/joshua-tree-national-park.jpg
 ---
 

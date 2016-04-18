@@ -5,17 +5,17 @@ gems: 						[jekyll-paginate]
 # Site Settings
 title: 						"Yuguo.us"
 email: 						"me@yuguo.us"
-description: 				"腾讯 ISUX UI工程师团队leader，《Web全栈工程师的自我修养》作者。"
+description: 			"腾讯UI工程师，住在深圳，《Web全栈工程师的自我修养》作者。"
 baseurl: 					""
 logourl: 					"/files/common/avatar.jpg"
 fa-logo: 					"fa-camera-retro"
 paginate: 					10
-
+paginate_path: "weblog/:num"
 
 # Author Settings
-author_name: 				"Yuguo"
+author_name: 				"余果"
 author_url: 				"http://yuguo.us"
-author_bio: 				"腾讯 ISUX UI工程师团队leader，《Web全栈工程师的自我修养》作者。"
+author_bio: 				"腾讯UI工程师，住在深圳，《Web全栈工程师的自我修养》作者。"
 author_email: 				"me@yuguo.us"
 author_image: 				"/files/common/avatar.jpg"
 
@@ -40,7 +40,7 @@ theme_google_comments: 		false
 theme_analytics_id: 		"UA-741276-12"
 theme_reading_time: 		true
 theme_autoload_comments: 	false
-theme_always_show_nav: 		false
+theme_always_show_nav: 		true
 
 
 # SASS Settings

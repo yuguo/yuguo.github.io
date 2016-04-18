@@ -2,6 +2,15 @@
 	MIXINS
 */
 
+@mixin css3-prefix($property, $value) {
+  -webkit-#{$property}: #{$value};
+   -khtml-#{$property}: #{$value};
+     -moz-#{$property}: #{$value};
+      -ms-#{$property}: #{$value};
+       -o-#{$property}: #{$value};
+          #{$property}: #{$value};
+}
+
 @mixin border-radius($radius-top, $radius-bottom) {
 	-webkit-border-radius: $radius-top $radius-bottom;
 	-moz-border-radius: $radius-top $radius-bottom;
@@ -37,3 +46,8 @@
 		opacity: 0.4;
 	}
 }
+
+@mixin flex($value: 1) {
+  @include css3-prefix('box-flex', $value);
+}
+

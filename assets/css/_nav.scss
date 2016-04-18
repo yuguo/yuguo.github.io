@@ -7,7 +7,8 @@ nav {
 	z-index: 400;
 	top: 20px;
 	right: 20px;
-	font: 600 14px 'Open Sans', Serif;
+	font-size: 14px;
+	font-weight: normal;
 	clear: both;
 
 	@include transition(all 0.2s ease-out);

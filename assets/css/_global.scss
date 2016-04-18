@@ -144,19 +144,6 @@ input:not([type=submit]):not([type=file]):active, input:not([type=submit]):not([
 		background: #3287c1;
 	}
 
-	span {
-		display: inline-block;
-		margin-left: 15px;
-
-		@media screen and (max-width: 1140px) {
-			display: none;
-		}
-
-		@media screen and (max-width: 595px) {
-			display: inline-block;
-		}
-	}
-
 	i {
 		font-size: 1.533333em;
 	}
