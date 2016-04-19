@@ -3,7 +3,7 @@ layout: post
 title: 自由
 date: 2011-01-02 01:58
 comments: true
-categories: [水]
+categories: [观点]
 ---
 
 买了单车，在城市里各条街道穿梭，哼着歌，一种很自由的感觉。

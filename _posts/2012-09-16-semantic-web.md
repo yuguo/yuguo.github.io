@@ -3,7 +3,7 @@ layout: post
 title: 语义网与网络外部性
 date: 2012-09-16 11:55
 comments: true
-categories: [水]
+categories: [观点]
 ---
 
 语义网是什么？维基百科定义：

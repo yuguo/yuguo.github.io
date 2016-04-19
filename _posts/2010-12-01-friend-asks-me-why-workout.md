@@ -3,7 +3,7 @@ layout: post
 title: 朋友问我为什么要健身
 date: 2010-12-01 23:10
 comments: true
-categories: [水]
+categories: [观点]
 ---
 
 朋友问我：余果，你为什么要健身呀～

@@ -3,7 +3,7 @@ layout: post
 title: 简单和困难
 date: 2011-06-13 15:47
 comments: true
-categories: [水]
+categories: [观点]
 ---
 
 有些时候人们认为简单的事情往往困难，而认为困难的往往简单。

@@ -3,7 +3,7 @@ layout: post
 title: 激励与响应
 date: 2013-12-16 09:35
 comments: true
-categories: [水]
+categories: [观点]
 ---
 
 2013年12月15日，天津市政府召开新闻发布会，宣布实行小客车总量调控管理以及实施机动车限行交通管理措施，也就是“限购＋限行”。[原文](http://news.xinhuanet.com/fortune/2013-12/16/c_125863248.htm) 。管理措施12月16日凌晨生效。

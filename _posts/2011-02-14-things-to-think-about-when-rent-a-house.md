@@ -3,7 +3,7 @@ layout: post
 title: 租房子时要注意的几点
 date: 2011-02-14 13:50
 comments: true
-categories: [水]
+categories: [观点]
 ---
 <h2>地理位置：</h2>
 商区位置：周围是否有公园、有大超市、有小食街、干洗店、医务室

@@ -3,7 +3,7 @@ layout: post
 title: web开发者的健康tips
 date: 2011-10-14 17:42
 comments: true
-categories: [水]
+categories: [观点]
 ---
 
 原文：<a href="http://www.impressivewebs.com/health-tips-for-web-developers/">http://www.impressivewebs.com/health-tips-for-web-developers/</a><ul>

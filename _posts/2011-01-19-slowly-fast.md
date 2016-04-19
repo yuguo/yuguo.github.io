@@ -3,7 +3,7 @@ layout: post
 title: 慢慢来比较快
 date: 2011-01-19 12:41
 comments: true
-categories: [水]
+categories: [观点]
 ---
 
 这是最近很喜欢的一首歌。姑且不谈作词者最初是想说什么，我从这个歌名上却想到不少。

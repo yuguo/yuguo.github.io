@@ -3,7 +3,7 @@ layout: post
 title: 我爱你的1000个理由
 date: 2011-04-06 21:39
 comments: true
-categories: [水]
+categories: [观点]
 ---
 <ol>
 	<li>你总是想着我，跟别人散步的时候也会给我发短信。</li>

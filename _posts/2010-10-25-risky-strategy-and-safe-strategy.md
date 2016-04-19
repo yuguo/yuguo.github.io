@@ -3,7 +3,7 @@ layout: post
 title: 冒险策略和安全策略
 date: 2010-10-25 23:27
 comments: true
-categories: [水]
+categories: [观点]
 ---
 
 跟室友小姐（男生）住久了，发现我们的性格截然不同。

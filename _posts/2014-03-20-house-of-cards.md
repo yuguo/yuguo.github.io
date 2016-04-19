@@ -3,7 +3,7 @@ layout: post
 title: 纸牌屋里的专业主义者
 date: 2014-03-20 8:35
 comments: true
-categories: [水]
+categories: [观点]
 weixin-image: /files/2014/03/house-of-cards-4.jpg
 ---
 

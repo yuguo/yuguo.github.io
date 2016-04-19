@@ -3,7 +3,7 @@ layout: post
 title: 教育的问题
 date: 2011-06-08 16:53
 comments: true
-categories: [水]
+categories: [观点]
 ---
 
 第一个问题：<strong>教育的目的是什么？</strong>
