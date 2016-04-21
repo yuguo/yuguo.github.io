@@ -4,6 +4,7 @@ gems: 						[jekyll-paginate]
 
 # Site Settings
 title: 						"Yuguo.us"
+url:						"http://yuguo.us"
 email: 						"me@yuguo.us"
 description: 			"腾讯UI工程师，住在深圳，《Web全栈工程师的自我修养》作者。"
 baseurl: 					""
