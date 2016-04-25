@@ -13,6 +13,8 @@ keywords: jekyll, https, linode, gitpage
 
 <!--more-->
 
+<div class="warning">本文写于2016年2月，到现在，本站的服务器已经发生了变化，请以最新的文章为准😜。</div>
+
 某些浏览器打开 SSL 加密的网站时，在地址栏前面会出现一个锁的标志，点击可以查看额外的信息。
 
 ![](/files/2016/01/yuguo-us-https.png)
