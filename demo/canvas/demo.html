@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>canvas demo</title>
+</head>
+<body>
+	<canvas id="drawing" width="200" height="200">A drawing of something.</canvas>
+
+	<script>
+	var drawing = document.getElementById("drawing");
+	if(drawing.getContext){
+		var context = drawing.getContext("2d");
+
+		context.beginPath();
+
+		context.arc(100, 100, 99, 2* Math.PI, false);
+
+		context.moveTo(194, 100);
+		context.arc(100, 100, 94, 0, 2*Math.PI, false);
+
+		context.moveTo(100, 100);
+		context.lineTo(100, 15);
+
+		context.moveTo(100, 100);
+		context.lineTo(35, 100);
+
+		context.stroke();
+	}
+	</script>
+</body>
+</html>

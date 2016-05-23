@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Indexed Database</title>
+</head>
+<body>
+	<script>
+	var idbSupported = false;
+	var db;
+
+		document.addEventListener('DOMContentLoaded', function(){
+			if("indexedDB" in window) {
+				idbSupported = true;
+				// console.log("YES! Your browser support Indexed DB!");
+			} else {
+				console.log("Your browser DON'T support Indexed DB!");
+			}
+
+			if (idbSupported) {
+				var openRequest = indexedDB.open("auto_people", 3);
+
+				openRequest.onupgradeneeded = function(e){
+					console.log("Running onupgradeeded...");
+
+					var thisDB = e.target.result;
+
+					if(!thisDB.objectStoreNames.contains("people")){
+						thisDB.createObjectStore("people", {autoIncrement:true});
+					}
+				}
+
+				openRequest.onsuccess = function(e){
+					console.log("success!");
+					db = e.target.result;
+
+					//Listen for add clicks
+					document.querySelector('#addButton').addEventListener("click",addPerson, false);
+
+					document.querySelector('#getButton').addEventListener("click", getPerson, false);
+				}
+
+				openRequest.onerror = function(e){
+					console.log("error!");
+					console.dir(e);
+				}
+			}
+
+		}, false);
+
+		function addPerson(e){
+			var name = document.querySelector('#name').value;
+			var email = document.querySelector('#email').value;
+
+			var transaction = db.transaction(['people'], "readwrite");
+			var store = transaction.objectStore("people");
+
+			var person = {
+				name: name,
+				email: email,
+				created: new Date()
+			}
+
+			var request = store.add(person);
+
+			request.onerror = function(e){
+				alert('error!');
+				console.dir(e);
+			}
+
+			request.onsuccess = function(e){
+				console.log('Did it!');
+			}
+		}
+
+		function getPerson(e){
+			var key = document.querySelector('#key').value;
+			if (key === '' || isNaN(key)) {return;}
+
+			var transaction = db.transaction(['people'], "readonly");
+			var store = transaction.objectStore("people");
+
+			var request = store.get(Number(key));
+
+			request.onsuccess = function(e){
+				var result = e.target.result;
+				console.dir(result);
+
+				if(result){
+					var s = "&lt;h2>Key "+key+"&lt;/h2>&lt;p>";
+			            for(var field in result) {
+			                s+= field+"="+result[field]+"&lt;br/>";
+			            }
+			            document.querySelector("#status").innerHTML = s;
+		        } else {
+		            document.querySelector("#status").innerHTML = "&lt;h2>No match&lt;/h2>";
+		        }   
+			}
+		}
+	</script>
+
+	<input type="text" id="name" placeholder="Name"><br/>
+	<input type="email" id="email" placeholder="Email"><br/>
+	<button id="addButton">Add Data</button><br/>
+
+	<input type="number" id="key">
+	<button id="getButton">Get Data</button>
+	<div id="status"></div>
+</body>
+</html>

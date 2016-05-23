@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Local Storage Example</title>
+</head>
+<body>
+	<script>
+		if (window.localStorage) {
+			var userName;
+			if (userName = localStorage.getItem('userName')){
+				document.write("<h1>Hello, " + userName + " !</h1>");
+			}else {
+				var userName = prompt("Hello, what is your name?");
+
+				if(userName != null && userName != ''){
+					localStorage.setItem('userName', userName);
+					document.location.reload();
+				}
+			}
+		} else {
+			alert("Your browser doesn't support HTML5 Locao Storage!");
+		}
+	</script>
+</body>
+</html>
