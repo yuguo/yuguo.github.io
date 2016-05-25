@@ -65,13 +65,6 @@ layout: default
 			{{ content }}
 		</section>
 
-		<footer>
-			<ul class="share left">
-				<li><a href="http://twitter.com/share?text={{ page.title }}&url={{ page.url | replace:'index.html','' | prepend: site.baseurl }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" class="smallbutton lightgray"><i class="fa fa-twitter"></i>Twitter</a></li>
-				<li><a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.baseurl }}" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" class="smallbutton lightgray"><i class="fa fa-facebook"></i>Facebook</a></li>
-			</ul>
-		</footer>
-
 		<div class="postprofile">
 			<img src="{{ site.author_image }}" class="author" alt="user">
 			<div class="info">

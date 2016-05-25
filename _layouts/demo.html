@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+		<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+		<meta name="description" content="{{ site.description }}" />
+
+		<meta name="HandheldFriendly" content="True" />
+		<meta name="MobileOptimized" content="320" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<link rel="alternate" type="application/rss+xml" href="{{ site.baseurl }}/feed.xml">
+		<link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
+		<link rel="prefetch" href="{{ site.baseurl }}">
+		<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
+	
+		<link rel="stylesheet" href="{{ "/assets/css/demo.css" | prepend: site.baseurl }}">
+
+		<style>
+			.breadcrumbs {background-color: #232323; margin: 0;color: #888; height: 40px; line-height: 40px;}
+			.breadcrumbs li {display: inline; list-style: none; }
+			.breadcrumbs li a {color:#888;}
+			.breadcrumbs li a:hover {color:#fff;}
+			.breadcrumbs .current {color:#fff;}
+		</style>
+
+	</head>
+	<body>
+
+	<script type="text/javascript">
+	// 配置文件
+	var config = {
+		'disqus_shortname': '{{ site.theme_disqus_shortname }}',
+		'google_comments': {{ site.theme_google_comments }},
+		'analytics_id': '{{ site.theme_analytics_id }}',
+		'readingtime': {{ site.theme_reading_time }},
+		'autoload_comments': {{ site.theme_autoload_comments }}
+	};
+
+	// ANALYTICS
+	if(config.analytics_id != '' || config.analytics_id != null || config.analytics_id != undefined){
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', config.analytics_id, 'auto');
+		ga('send', 'pageview');
+	}
+	</script>
+
+	<ol class="breadcrumbs" role="menubar" aria-label="breadcrumbs">
+	 <li><a href="/">Yuguo.us</a></li>
+	 {% assign crumbs = page.url | split: '/' %}
+	   {% for crumb in crumbs offset: 1 %}
+	    {% if forloop.last %}
+	        <li><span class="divider">&#187;</span> <span class="current">{{ page.title }}</span></li>
+	    {% else %}
+	        <li><span class="divider">&#187;</span> <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' }}</a></li>
+	    {% endif %}
+	  {% endfor %}
+	</ol>
+
+	<section class="wrapper">
+
+		{{content}}
+
+	</section>
+
+	{% include footer.html %}
+
+  </body>
+</html>

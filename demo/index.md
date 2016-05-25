@@ -1,13 +1,15 @@
 ---
-layout: page
+layout: demo
 title: Demo
 comments: false
 nav: true
 ---
 
+
+
+- [一、语义化](semantics)
 - [canvas](canvas)
-- [semantics](semantics)
-- [form](form)
+- [表单](form)
 - [cookie](cookie)
 - [offline](offline)
 - [storage](storage)
