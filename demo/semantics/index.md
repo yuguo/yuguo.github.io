@@ -5,7 +5,7 @@ comments: false
 nav: true
 ---
 
-一、语义化
+一、语义化标签
 --
 
 在这里列出了部分 HTML5 标准新增的语义化标签。
@@ -20,6 +20,10 @@ nav: true
 - [sub/sup](sub)
 - [wbr](wbr)
 
-完整列表请参考[https://html.spec.whatwg.org/#usage-summary](https://html.spec.whatwg.org/#usage-summary)
+完整列表请参考[https://html.spec.whatwg.org/multipage/semantics.html#usage-summary](https://html.spec.whatwg.org/multipage/semantics.html#usage-summary)
 
-此外，还有对 [microdata](microdata) 的介绍。
+
+二、Microdata
+----
+
+- [microdata](microdata)
