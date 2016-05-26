@@ -21,13 +21,3 @@ nav: true
 - [wbr](wbr)
 
 完整的语义化标签列表请参考[http://html5doctor.com/](http://html5doctor.com/)
-
-二、Form
-----
-
-- [form](form)
-
-三、Microdata
-----
-
-- [microdata](microdata)

@@ -5,11 +5,21 @@
 	<title>Local Storage Example</title>
 </head>
 <body>
+
+	<h1 id="head"></h1>
+	<button id="clearStorage">Forget my name!</button>
+
+
 	<script>
+	window.onload = function(e){
 		if (window.localStorage) {
 			var userName;
 			if (userName = localStorage.getItem('userName')){
-				document.write("<h1>Hello, " + userName + " !</h1>");
+				var head = document.getElementById('head'),
+					clearButton = document.getElementById('clearStorage');
+
+				head.innerHTML = "Hello, " + userName + " !";
+				clearButton.addEventListener('click', clearEventListener, false);
 			}else {
 				var userName = prompt("Hello, what is your name?");
 
@@ -18,9 +28,16 @@
 					document.location.reload();
 				}
 			}
+
+			function clearEventListener(e){
+				localStorage.removeItem('userName');
+				alert("I've forgot your name~");
+				document.location.reload();
+			}
 		} else {
 			alert("Your browser doesn't support HTML5 Locao Storage!");
 		}
+	}
 	</script>
 </body>
 </html>
