@@ -6,7 +6,7 @@ gems: 						[jekyll-paginate]
 title: 						"Yuguo.us"
 url:						"http://yuguo.us"
 email: 						"me@yuguo.us"
-description: 			"腾讯UI工程师，住在深圳，《Web全栈工程师的自我修养》作者。"
+description: 			"目标是成为全栈工程师，在腾讯深圳工作，《Web全栈工程师的自我修养》作者。"
 baseurl: 					""
 logourl: 					"/files/common/avatar.jpg"
 fa-logo: 					"fa-camera-retro"
@@ -16,7 +16,7 @@ paginate_path: "weblog/:num"
 # Author Settings
 author_name: 				"余果"
 author_url: 				"http://yuguo.us"
-author_bio: 				"腾讯UI工程师，住在深圳，《Web全栈工程师的自我修养》作者。"
+author_bio: 				"目标是成为全栈工程师，在腾讯深圳工作，《Web全栈工程师的自我修养》作者。"
 author_email: 				"me@yuguo.us"
 author_image: 				"/files/common/avatar.jpg"
 
@@ -54,4 +54,3 @@ sass:
 # Build Settings
 markdown: 					kramdown
 permalink: 					weblog/:title/
-
