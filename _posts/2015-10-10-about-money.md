@@ -4,6 +4,7 @@ title: 程序员应该学的投资
 date: 2015-10-10 20:00
 comments: true
 categories: [观点]
+keywords: 全栈工程师
 ---
 
 ### 世界上的绝大多数人都想积累财富
