@@ -17,7 +17,7 @@ categories: [front-end]
 
 1.  快速开发
 2.  完美兼容
-3.  快速上手[![CSS框架搜索趋势](http://yuguo.us/files/2010/08/1.png "CSS框架搜索趋势")](http://www.google.com/trends?q=css+framework)
+3.  快速上手[![CSS框架搜索趋势](https://yuguo.us/files/2010/08/1.png "CSS框架搜索趋势")](http://www.google.com/trends?q=css+framework)
 关于快速上手，我觉得不是那么简单。诚然任何人可以下载一个css框架开始在实际中开始使用，可是每个CSS框架有各自的适用环境。而选择一个适合自己项目的框架（_或者从不使用框架到使用框架的思维转变_）需要对当前流行的大部分框架有所了解和研究。这是一个陡峭的学习曲线。基于此，我决定分别研究这些知名框架。
 
 ## OOCSS是什么
@@ -31,7 +31,7 @@ categories: [front-end]
 
 oocss包含4个基本文件和 一些扩展样式。
 
-![OOCSS文件请求](http://yuguo.us/files/2010/09/2010-9-1-16-56-08.png "OOCSS文件请求")
+![OOCSS文件请求](https://yuguo.us/files/2010/09/2010-9-1-16-56-08.png "OOCSS文件请求")
 
 4个基本文件包括：
 
@@ -51,7 +51,7 @@ content.css 是对内容和定义的样式。它对所有标题和P都加上padd
 
 当我第一次用Firebug查看OOCSS的示例代码结构的时候，我有一种被震惊的感觉，然后就是长久的“我怎么没想到呢”这样的思考。
 
-![oocss的container和content是分离的](http://yuguo.us/files/2010/09/2010-9-1-17-18-33-copy1.png "oocss的container和content是分离的")
+![oocss的container和content是分离的](https://yuguo.us/files/2010/09/2010-9-1-17-18-33-copy1.png "oocss的container和content是分离的")
 
 它把容器设置为padding:0;margin:0;这样就可以直接设置容器的宽度（像素或者百分比），而不用担心掉下去。
 
@@ -61,11 +61,11 @@ content.css 是对内容和定义的样式。它对所有标题和P都加上padd
 
 在编程语言中，对象是可扩展的，oocss中引进了这个概念。mod.css和mod_skins.css分别是定义基类mod和子类mod_extend的地方。
 
-[![oocss的模块性](http://yuguo.us/files/2010/09/2010-9-2-20-34-591.png "oocss的模块性")](http://yuguo.us/files/2010/09/2010-9-2-20-34-591.png)
+[![oocss的模块性](https://yuguo.us/files/2010/09/2010-9-2-20-34-591.png "oocss的模块性")](https://yuguo.us/files/2010/09/2010-9-2-20-34-591.png)
 
 ### 3.mod具有相当的通用性
 
-[![oocss中mod的结构](http://yuguo.us/files/2010/09/2010-9-3-14-27-35.png "oocss中mod的结构")](http://yuguo.us/files/2010/09/2010-9-3-14-27-35.png)
+[![oocss中mod的结构](https://yuguo.us/files/2010/09/2010-9-3-14-27-35.png "oocss中mod的结构")](https://yuguo.us/files/2010/09/2010-9-3-14-27-35.png)
 
 mod具有通用性的一个必须的缺陷是，具有冗余代码。mod是可扩展，可拉伸的（设定不同的宽度就会以不同的宽度延展开来），这样就必须在四个角上使用空标签。oocss采用空的b标签，对此，oocss的官方解释是：
 > 屏幕阅读器会忽略空的b标签。使用这个表象标签（b是加粗）来实现表象具有优势。这个标签可以通过服务器端或者脚本引入，以至于有一天所有的CSS圆角和阴影都被支持了，可以关闭脚本并拥有漂亮，干净，语义化的HTML。
@@ -83,7 +83,7 @@ mod具有通用性的一个必须的缺陷是，具有冗余代码。mod是可�
 
 mod_skins.css中的注释会清晰地表明是扩展自哪个模块类，这样当需要写出class="mod mod_extend"这样的class的时候，就不会像class="mod_extend"这样漏掉基类。
 
-[![oocss的css注释](http://yuguo.us/files/2010/09/2010-9-3-15-44-111.png "oocss的css注释")](http://yuguo.us/files/2010/09/2010-9-3-15-44-111.png)
+[![oocss的css注释](https://yuguo.us/files/2010/09/2010-9-3-15-44-111.png "oocss的css注释")](https://yuguo.us/files/2010/09/2010-9-3-15-44-111.png)
 
 ### 5.下划线_IE hack
 
@@ -107,7 +107,7 @@ oocss使用了_width这种IE hack，对此oocss的官方解释是：
 
 另外介绍一下鬼哥[@ghostzhang](http://t.qq.com/ghostzhang)的[模块注释](http://www.cssforest.org/blog/index.php?id=168)：
 
-[![mod的注释](http://yuguo.us/files/2010/09/2010-9-3-16-03-10.png "mod的注释")](http://yuguo.us/files/2010/09/2010-9-3-16-03-10.png)
+[![mod的注释](https://yuguo.us/files/2010/09/2010-9-3-16-03-10.png "mod的注释")](https://yuguo.us/files/2010/09/2010-9-3-16-03-10.png)
 
 由于合并后没有一个单独的文件保存所有的mod或者所有的mod_extend，所以需要详细的注释来标明这个mod或者mod_extend。
 

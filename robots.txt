@@ -1,4 +1,4 @@
 User-agent: *
  Disallow:
 
-Sitemap: http://yuguo.us/sitemap.xml
+Sitemap: https://yuguo.us/sitemap.xml

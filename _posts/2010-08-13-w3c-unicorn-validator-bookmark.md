@@ -29,4 +29,4 @@ OK，希望对你有用，有什么问题或者建议记得在此反馈~
 
 PS：IE下添加收藏夹好纠结，我不得不新建一个当前页的收藏夹，然后再更改属性中的目标地址为以上代码。
 
-转载请保留：http://yuguo.us/weblog/w3c-unicorn-validator-bookmark/
+转载请保留：https://yuguo.us/weblog/w3c-unicorn-validator-bookmark/
