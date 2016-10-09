@@ -47,5 +47,9 @@ nav: true
 * [twitter](http://twitter.com/yuguo)
 * [豆瓣](http://douban.com/people/yuguo)
 * [微博](http://weibo.com/yuguous)
+<<<<<<< HEAD
+=======
+* [简历](https://yuguo.us/profile)
+>>>>>>> b3cd54ce6aec23c94d374d4d879b32664b671e27
 
 我的Email地址是 me@yuguo.us，猎头勿扰。

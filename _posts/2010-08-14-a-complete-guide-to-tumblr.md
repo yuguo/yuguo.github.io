@@ -14,7 +14,7 @@ Tumblr是我很喜欢的一个产品，超轻量级，现在已经被block了，
 
 可以认为Tumblr是一个小型博客。Twitter和腾讯围脖在国内称为“微博”实际上是个不准确的宣传用语，属于商业上的命名规则。如果按学术上的命名规则来说，他们不属于“博客”科的。围脖允许人们发表140字以内的文字和图片，而Tumblr允许你发表任意文字数量的日志，但它更适合（同时也在鼓励）小型的日志。它是140字微博和大型博客（像我这个yuguo.us/weblog）之间的一个过渡。
 
-[![Tumblr后台界面](http://yuguo.us/files/2010/08/photopost.jpg "Tumblr后台界面")](http://yuguo.us/files/2010/08/photopost.jpg)
+[![Tumblr后台界面](https://yuguo.us/files/2010/08/photopost.jpg "Tumblr后台界面")](https://yuguo.us/files/2010/08/photopost.jpg)
 
 Tumblr对于喜欢自定义的人才们也是一个很好的选择，因为它给予用户对于博客外观有完全的控制力。它也为主题设计师提供了机会，那些高级主题都会被定价为US$9~$49，厉害哦~本文为使用和设计Tumblr完全指南。
 
@@ -26,7 +26,7 @@ Tumblr对于喜欢自定义的人才们也是一个很好的选择，因为它�
 
 与其他博客托管商不同的是，Tumblr有一系列内置的日志类型。它们包括文本，相片，视频，歌曲，引用，链接和简单的对话。大部分主题都会利用这些不同的日志类型指定特定的格式或者样式。所有这些日志类型里面都可以加上纯文本，比如可以在一首歌下面添加一些心得。
 
-[![Tumblr的日志类型](http://yuguo.us/files/2010/08/posttypes.jpg "posttypes")](http://yuguo.us/files/2010/08/posttypes.jpg)
+[![Tumblr的日志类型](https://yuguo.us/files/2010/08/posttypes.jpg "posttypes")](https://yuguo.us/files/2010/08/posttypes.jpg)
 
 由于Tumblr把这些日志类型很好地分开，所以可以很方便地把博客变成一个图片博客，或者播客。
 
@@ -42,31 +42,31 @@ Tumblr开放API导致一大堆第三方应用的衍生。比如iPhone应用，�
 
 Follow其他用户很简单，Tumblr页面顶部右上角都会有链接。
 
-[![Tumblr的Reblog](http://yuguo.us/files/2010/08/reblogdashboard.jpg "reblogdashboard")](http://yuguo.us/files/2010/08/reblogdashboard.jpg)
+[![Tumblr的Reblog](https://yuguo.us/files/2010/08/reblogdashboard.jpg "reblogdashboard")](https://yuguo.us/files/2010/08/reblogdashboard.jpg)
 
 ### 开始注册什么的吧
 
 这一部分免翻译，英文稍微OK就可以用了，图标做的也很好，即使是日文应该也没什么问题。咱快速略过这一段进入到开发者感兴趣的环节吧。
 
-[![简单的注册页面](http://yuguo.us/files/2010/08/signup.jpg "signup")](http://yuguo.us/files/2010/08/signup.jpg)
+[![简单的注册页面](https://yuguo.us/files/2010/08/signup.jpg "signup")](https://yuguo.us/files/2010/08/signup.jpg)
 
 ### 选一个主题
 
 即时身无美分的穷人也可以选到很好的免费主题。
 
-[![选择一个主题](http://yuguo.us/files/2010/08/tumblrthemes.jpg "tumblrthemes")](http://yuguo.us/files/2010/08/tumblrthemes.jpg)
+[![选择一个主题](https://yuguo.us/files/2010/08/tumblrthemes.jpg "tumblrthemes")](https://yuguo.us/files/2010/08/tumblrthemes.jpg)
 
 大部分主题都可以自定义颜色。
 
-[![自定义颜色](http://yuguo.us/files/2010/08/appearanceoptions.jpg "appearanceoptions")](http://yuguo.us/files/2010/08/appearanceoptions.jpg)
+[![自定义颜色](https://yuguo.us/files/2010/08/appearanceoptions.jpg "appearanceoptions")](https://yuguo.us/files/2010/08/appearanceoptions.jpg)
 
 和CSS
 
-[![大部分主题都可以自定义CSS](http://yuguo.us/files/2010/08/customcss.jpg "customcss")](http://yuguo.us/files/2010/08/customcss.jpg)
+[![大部分主题都可以自定义CSS](https://yuguo.us/files/2010/08/customcss.jpg "customcss")](https://yuguo.us/files/2010/08/customcss.jpg)
 
 和HTML……
 
-[![所有主题都可以自定义HTML](http://yuguo.us/files/2010/08/customhtml.jpg "customhtml")](http://yuguo.us/files/2010/08/customhtml.jpg)
+[![所有主题都可以自定义HTML](https://yuguo.us/files/2010/08/customhtml.jpg "customhtml")](https://yuguo.us/files/2010/08/customhtml.jpg)
 
 从更改别人的HTML开始上手来设计Tumblr主题是一个很好的方法，这可比从0开始方便多了。
 
@@ -76,13 +76,13 @@ Tumblr使得从web上任何地方发表内容到Tumblr都非常容易。把它�
 
 大部分页面都会默认“链接”类型，但是如果你在访问Flickr，那么默认会到“照片”类型。类似的，如果你在看YouTube页面（天朝网民……），默认会是“视频”类型。
 
-[![方便的书签功能](http://yuguo.us/files/2010/08/bookmarklet.jpg "bookmarklet")](http://yuguo.us/files/2010/08/bookmarklet.jpg)
+[![方便的书签功能](https://yuguo.us/files/2010/08/bookmarklet.jpg "bookmarklet")](https://yuguo.us/files/2010/08/bookmarklet.jpg)
 
 ## 创建Tumblr主题
 
 Tumblr已经提供了非常简单的方法可以让你改别人的HTML和CSS来做自己的样式，即便如此还是有些人犯贱喜欢从头开始，Tumblr考虑到了这种需求。
 
-[![自定义一个新的Tumblr主题](http://yuguo.us/files/2010/08/customtheme.jpg "customtheme")](http://yuguo.us/files/2010/08/customtheme.jpg)
+[![自定义一个新的Tumblr主题](https://yuguo.us/files/2010/08/customtheme.jpg "customtheme")](https://yuguo.us/files/2010/08/customtheme.jpg)
 
 ### 基本结构
 
@@ -94,7 +94,7 @@ Tumblr主题包括一些不变的基本部分。基本上是头部和主题部�
 
 虽然没有女盆友，可是我们这些乐于分享的工程师都喜欢创建一个public theme，public theme和private theme的区别就是它允许用户配置一些自己的属性比如字体颜色或者哪些部分显示哪些部分不显示。你如果感兴趣可以看看其他的主题允许哪些定制变量，然后查看变量的用法。
 
-[![创建一个公共主题](http://yuguo.us/files/2010/08/submittheme.jpg "submittheme")](http://yuguo.us/files/2010/08/submittheme.jpg)
+[![创建一个公共主题](https://yuguo.us/files/2010/08/submittheme.jpg "submittheme")](https://yuguo.us/files/2010/08/submittheme.jpg)
 
 相比于自用主题，public theme确实有一些_要求_：
 
@@ -110,4 +110,3 @@ Tumblr主题包括一些不变的基本部分。基本上是头部和主题部�
 ## 总结
 
 无论你是在寻找一个方便和简单的平台来写博客，还是多人博客，还是小小的吐槽空间，还是开发者，还是想赚钱的开发者都可以用Tumblr达到目标。
-

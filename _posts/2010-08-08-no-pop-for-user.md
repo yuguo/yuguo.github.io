@@ -7,7 +7,7 @@ categories: [front-end]
 ---
 
 之前按要求给产品经理做了一个Photoshop Action，她使用这个Action在特定的PSD上面运行的时候就会自动切出需要的图来，然后上传到CMS就可以自动生成一个网页了。这样她以后就可以自己做出需要的网站，而不用重构组来做了。
-[![弹出窗口](http://yuguo.us/files/2010/08/2010-8-8-13-18-34.png "弹出窗口")](http://yuguo.us/files/2010/08/2010-8-8-13-18-34.png)
+[![弹出窗口](https://yuguo.us/files/2010/08/2010-8-8-13-18-34.png "弹出窗口")](https://yuguo.us/files/2010/08/2010-8-8-13-18-34.png)
 我参考了之前做过的Action，觉得过程可以优化。之前的Action会<span style="color: #ff0000;">按照特定的优化比例</span>（jpg大概70%）来给切片保存质量，然后储存在<span style="color: #ff0000;">D盘下的某中文名特定文件夹</span>。切片是通过<span style="color: #ff0000;">分割线</span>来完成。
 
 我优化了这几个地方：

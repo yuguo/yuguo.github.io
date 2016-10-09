@@ -6,7 +6,7 @@ comments: true
 categories: [iOS]
 ---
 
-其实本文应该是[缓存和NSURLConnection](http://yuguo.us/weblog/caching-and-nsurlconnection/)的前篇。iOS开发中，NSURLConnection是一种灵活的通过URL下载内容的方法。
+其实本文应该是[缓存和NSURLConnection](https://yuguo.us/weblog/caching-and-nsurlconnection/)的前篇。iOS开发中，NSURLConnection是一种灵活的通过URL下载内容的方法。
 
 UIWebView的的loadRequest方法
 ---
@@ -15,23 +15,23 @@ UIWebView的的loadRequest方法
 
 	UIWebView *webView = [[UIWebView alloc] initWithFrame:CGRectMake(0, 0, 320, 370)];
     [webView setDelegate:self];
-    
+
     NSString *urlAddress = @"http://yuguo.github.com/raphaejs/arcs.html";
     NSURL *url = [NSURL URLWithString:urlAddress];
     NSURLRequest *requestObj = [NSURLRequest requestWithURL:url cachePolicy:NSURLRequestReturnCacheDataElseLoad timeoutInterval:10.0];
     [webView loadRequest:requestObj];
-    
+
     [self.view addSubview:webView];
-    
+
 如果你注意到我有把webView的代理协议设置为self，那你就会知道我可以实现这些方法 ，来控制页面的展示：
 
 	– webView:shouldStartLoadWithRequest:navigationType:
 	– webViewDidStartLoad:
 	– webViewDidFinishLoad:
 	– webView:didFailLoadWithError:
-	
+
 因为webView除了可以载入url，还可以自己生成html片段，来让webView载入html片段。如果我只是要在webView中载入这个完整页面，那没有问题。如果希望下载的内容还能够保存和处理，那就需要NSURLConnection。
-	
+
 UIWebView的loadHTMLString方法
 ---
 
