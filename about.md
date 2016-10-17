@@ -30,13 +30,26 @@ nav: true
 
 喜欢演讲。在腾讯公司级“one piece”、点燃腾讯（ignite）上都有分享，另外还在腾讯互动娱乐事业群、电商子公司有分享。偶尔也受邀进行跨公司培训。
 
+我的技能
+---
+
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/yuguo/personal-stack)
+
+<a frameborder="0" data-theme="light" data-stack-embed="true" data-layers="1,2,3" href="https://embed.stackshare.io/stacks/embed/f340c3e4d390226199b07821e83d2f"></a>
+
+<script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
+
 这是我的其他链接：
 
 * [github](http://github.com/yuguo)
+* [npm](https://www.npmjs.com/~yuguo)
 * [知乎](http://www.zhihu.com/people/yuguo)
 * [twitter](http://twitter.com/yuguo)
 * [豆瓣](http://douban.com/people/yuguo)
 * [微博](http://weibo.com/yuguous)
+<<<<<<< HEAD
+=======
 * [简历](https://yuguo.us/profile)
+>>>>>>> b3cd54ce6aec23c94d374d4d879b32664b671e27
 
-我的Email地址是me@yuguo.us。
+我的Email地址是 me@yuguo.us，猎头勿扰。
