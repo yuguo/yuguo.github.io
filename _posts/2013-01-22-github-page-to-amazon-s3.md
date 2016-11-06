@@ -6,6 +6,11 @@ comments: true
 categories: [back-end]
 ---
 
+<div class="reference">
+	<strong>注意</strong>
+	<p>这篇日志发表于2013年1月，其中的内容已经发生了改变，最新内容已更新</p>
+</div>
+
 Github的被墙经历了这样几个阶段，首先是pages被墙（也就是`.github.com`字符串进黑名单），这个时候自定义域名的pages还是可以访问的，经历了两天的各地区抽风，后来https主站无法访问，最后DNS污染攻击全站，自定义域名的pages也无法访问了。
 
 现在要访问github要么翻墙，要么配host。
@@ -39,12 +44,8 @@ Amazon S3
 ---
 
 <div class="container">
-	
+
 	[Amazon S3](http://aws.amazon.com/cn/s3/)是一个静态资源托管服务，默认就有较大的容量和流量，在流量超标时会选择性付费，你现在访问的博客就是托管在s3上的，速度还不错吧？
-	<div class="reference">
-		<strong>注意</strong>
-		<p>这篇日志发表于2013年1月，其中的内容已经发生了改变，最新内容已更新</p>
-	</div>
 </div>
 
 
