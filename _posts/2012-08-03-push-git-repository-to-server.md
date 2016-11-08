@@ -20,8 +20,19 @@ categories: [博客]
 	git config receive.denyCurrentBranch ignore
 	git config --bool receive.denyNonFastForwards false
 	cd .git/hooks
-	wget http://yuguo.us/post-update
-	chmod +x post-update
+	touch post-receive
+	chmod +x post-receive
+
+然后在新创建的post-receive中输入：
+
+	#!/bin/sh
+	#
+	DIR_ONE=/home/ubuntu/yuguo.us/public
+	#
+	git --work-tree=${DIR_ONE} clean -fd
+	git --work-tree=${DIR_ONE} checkout --force
+
+这里的DIR_ONE=后面就写目标文件夹。
 
 <h2>在本地git中配置：</h2>
 
