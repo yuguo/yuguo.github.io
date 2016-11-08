@@ -26,6 +26,10 @@ theme_reading_time: 		true
 theme_autoload_comments: 	false
 theme_always_show_nav: 		true
 
+# New Collection for Referral
+collections:
+  referrals:
+    output: false
 
 # SASS Settings
 # DO NOT MODIFY
