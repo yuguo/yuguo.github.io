@@ -47,8 +47,8 @@ categories: [博客]
 master对应你自己的分支的名字就好，prod的意思是product。
 
 <h2>FAQ</h2>
-<h4>http://utsl.gen.nz/git/post-update是干嘛的？</h4>
-在git的`hooks`文件夹可以配置一些钩子，这些钩子在git特定操作的时候被触发，`post-update`就是这样一种钩子，当`push`发生的时候，它会在远程代码仓库执行操作。所以我们用`wget`把这个`post-update`放到本地覆盖。
+<h4>post-receive是干嘛的？</h4>
+在git的`hooks`文件夹可以配置一些钩子，这些钩子在git特定操作的时候被触发，`post-receive`就是这样一种钩子，当`push`发生的时候，它会在远程代码仓库执行操作。所以我们用`wget`把这个`post-receive`放到本地覆盖。
 <h4>我不用`git init`，而用git clone可以吗？</h4>
 没问题，但是还是要完成接下来的配置操作。
 <h4>为啥push成功之后，代码没有生效？</h4>
