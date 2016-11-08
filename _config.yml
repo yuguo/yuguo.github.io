@@ -1,7 +1,3 @@
-# External Gems
-gems: 						[jekyll-paginate]
-
-
 # Site Settings
 title: 						"Yuguo.us"
 url:						"https://yuguo.us"
@@ -10,8 +6,6 @@ description: 			"目标是成为全栈工程师，在腾讯深圳工作，《Web
 baseurl: 					""
 logourl: 					"/files/common/avatar.jpg"
 fa-logo: 					"fa-camera-retro"
-paginate: 					10
-paginate_path: "weblog/:num"
 
 # Author Settings
 author_name: 				"余果"
