@@ -8,7 +8,7 @@ nav: true
 
 <style>
 .about-books {display: inline-block; margin-right:20px; }
-.about-books img {height: 250px; box-shadow: 0 0px 4px #bbb}
+.about-books img {height: 250px; box-shadow: 0 0px 4px #bbb} 
 </style>
 
 关于我
