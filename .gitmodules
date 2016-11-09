@@ -1,3 +1,3 @@
 [submodule "_referrals"]
 	path = _referrals
-	url = git://github.com/yuguo/bat-internal-referral
+	url = https://github.com/yuguo/bat-internal-referral.git
