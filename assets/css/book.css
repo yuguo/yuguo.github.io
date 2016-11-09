@@ -774,7 +774,6 @@ a.anchor-link:active {
 /* basic elements */
 body {
   font-family: 'Noticia Text', Georgia, serif;
-  font-size: 18px;
   line-height: 26px;
   color: #333;
   background: url("../img/mini-tiles.png");
