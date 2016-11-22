@@ -4,7 +4,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>{{ site.title | xml_escape }}</title>
-		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>		
+		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
 		<link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
 		{% for post in site.posts limit:10 %}
@@ -12,15 +12,20 @@
 				<title>{{ post.title | xml_escape }}</title>
 				{% if site.author_name %}
 					<dc:creator>{{ site.author_name | xml_escape }}</dc:creator>
-				{% endif %}        
+				{% endif %}
 				{% if post.excerpt %}
 					<description>{{ post.excerpt | xml_escape }}</description>
 				{% else %}
 					<description>{{ post.content | xml_escape }}</description>
 				{% endif %}
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-				<link>{{ site.url }}{{ post.url }}</link>
-				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+				{% if post.external %}
+					<link>{{ post.external }}</link>
+					<guid isPermaLink="true">{{ post.external }}</guid>
+				{% else %}
+					<link>{{ site.url }}{{ post.url }}</link>
+					<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+				{% endif %}
 			</item>
 		{% endfor %}
 	</channel>

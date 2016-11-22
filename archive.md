@@ -7,11 +7,11 @@ nav: true
 <div class="tag-box">
 {% assign tags_list = site.categories %}  
   {% if tags_list.first[0] == null %}
-    {% for tag in tags_list %} 
+    {% for tag in tags_list %}
       <a href="#{{ tag }}">{{ tag }} <span>{{ site.tags[tag].size }}</span></a>
     {% endfor %}
   {% else %}
-    {% for tag in tags_list %} 
+    {% for tag in tags_list %}
       <a href="#{{ tag[0] }}">{{ tag[0] }} <span>{{ tag[1].size }}</span></a>
     {% endfor %}
   {% endif %}
@@ -24,7 +24,15 @@ nav: true
     <ul>
     {% for posts in category %}
       {% for post in posts %}
-         {% if post.url %} <li><a href="{{ post.url }}">{{ post.title }}</a></li> {% endif %}
+       {% if post.external %}
+       <li>
+         <a href="{{ post.external }}" target="_blank"><span class="external-link">{{ post.title }}</span></a>
+         </li>
+       {% elsif post.url %}
+       <li>
+         <a href="{{ post.url | prepend: site.baseurl }}"><span>{{ post.title }}</span></a>
+         </li>
+       {% endif %}
       {% endfor %}
     {% endfor %}
     </ul>
