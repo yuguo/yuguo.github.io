@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="profile">
+	{% if site.logourl != "" %}<img src="{{ site.logourl | prepend: site.baseurl }}" class="profileimage" alt="user">{% endif %}
+	<h4>{{ site.title }}</h4>
+	<p>{{ site.description }}</p>
+	<hr>
+</div>
+
+<section class="posts postindex wrapper">
+
+	<ul>
+	{% for post in site.posts %}
+		<li class="post {% if post.featured == true %} featured {% endif %}">
+			<time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+			{% if post.external %}
+			<a href="{{ post.external }}" target="_blank"><span class="external-link">{{ post.title }}</span>
+			{% else %}
+			<a href="{{ post.url | prepend: site.baseurl }}"><span>{{ post.title }}</span>
+			{% endif %}
+			<span class="category">{% for category in post.categories %}{{ category }}{% endfor %}
+			</span></a>
+		</li>
+	{% endfor %}
+	</ul>
+
+</section>
