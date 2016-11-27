@@ -12,9 +12,9 @@ nav: true
 .about-books img {height: 250px; box-shadow: 0 0px 4px #bbb}
 </style>
 
-我叫余果，从2010年开始在腾讯工作，现在是腾讯 [ISUX](http://isux.tencent.com) 的UI开发团队leader、高级UI工程师、UI开发通道委员、腾讯云特邀布道师。
+我叫余果，从2010年开始在腾讯工作，现在是腾讯 [ISUX](http://isux.tencent.com) 的前端开发团队leader、高级UI工程师、UI开发通道委员、腾讯云特邀布道师。
 
-喜欢写作，著书出版了[《Web全栈工程师的自我修养》](/weblog/full-stack-engineer/)，进入技术类畅销书排行榜前5名，并入选iWeb北京峰会推荐图书，一年内已经重印4次。
+喜欢写作，著书出版了[《Web全栈工程师的自我修养》](/weblog/full-stack-engineer/)，当周进入技术类畅销书排行榜前5名，并入选iWeb北京峰会推荐图书，一年内已经重印4次。
 
 相信英语对于程序员是很重要的能力，组织翻译了[《众妙之门3》](/weblog/isux-and-smashing-book/)和[《响应式web设计全流程解析》](/weblog/designers-should-learn-code/)。
 
@@ -28,7 +28,7 @@ nav: true
 	<img src="/files/common/smashing-book.png" alt="众妙之门3">
 </a>
 
-喜欢演讲。
+喜欢演讲：
 
 - 2016年9月，受邀参加“深圳前端体验大会”，演讲《软件质量的提升与展望》。
 - 2016年11月，受邀参加“重庆前端开发者大会”，演讲《面向未来的跨界开发技术》。

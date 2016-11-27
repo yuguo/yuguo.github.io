@@ -2,6 +2,7 @@
   <head>
     <meta charset="utf-8">
     <title>内推项目 - {{ site.author_name }}</title>
+    <meta name="keywords" content="{% if page.keywords %}{{ page.keywords | join: ', ' | escape }}{% endif %}">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/assets/css/book.css">
