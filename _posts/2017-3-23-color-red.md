@@ -4,7 +4,7 @@ title: 初学者看的配色指南：从苹果的红色iPhone聊起
 date: 2017-03-23 19：00
 categories: [设计]
 keywords: [设计, 配色, 红黑, 红白, 红黑白]
-banner_image: /files/2017/03/apple-red-iphone.png
+banner_image: /files/2017/03/apple-red-iphone.jpg
 ---
 
 苹果新发布了红色iPhone，引起国内很多一些产品的运营跟风，比如把产品界面改成红色之类的。
@@ -26,7 +26,7 @@ banner_image: /files/2017/03/apple-red-iphone.png
 
 比如苹果官方图就遵循这个套路：
 
-[![](/files/2017/03/apple-red-iphone.png)](http://www.apple.com/shop/buy-iphone/special-edition-iphone-7)
+[![](/files/2017/03/apple-red-iphone.jpg)](http://www.apple.com/shop/buy-iphone/special-edition-iphone-7)
 
 上面点缀白色文字和白色图形能够显得很清晰。因为一般白色是认为没有情绪的，所以不会对红色底产生干扰。
 
@@ -44,7 +44,7 @@ banner_image: /files/2017/03/apple-red-iphone.png
 
 使用单一色表，可以很好的表示针对某一个颜色来拓展应用范围，[Dribbble](https://dribbble.com/)的取色板就采用了多个单一色表。你可以在任何一个作品的颜色调色板中取色进入色表搜索页，比如[红色](https://dribbble.com/colors/ff0000)。
 
-![](/files/2017/03/dribbble-color-plate.png)
+![](/files/2017/03/dribbble-color-plate.jpg)
 
 **色表第二列就是红色的单一色表，你可以依次从偏白调、偏灰调到偏黑调来浏览。**
 
@@ -66,7 +66,7 @@ banner_image: /files/2017/03/apple-red-iphone.png
 
 如上图，使用红色+白调比较年轻可爱。
 
-![](/files/2017/03/dribbble-color-plate-3.png)
+![](/files/2017/03/dribbble-color-plate-3.jpg)
 
 使用红色+黑调比较稳重。
 
@@ -97,7 +97,7 @@ banner_image: /files/2017/03/apple-red-iphone.png
 
 我很喜欢这个澳门饼店的品牌重构，采用了白色+红色的单色配色，但不觉得简陋。
 
-![](/files/2017/03/DraggedImage-5.png)
+![](/files/2017/03/DraggedImage-5.jpg)
 
 文字比较粗大，加上圆润的12边形，组成辨识度强的logo（左上）。袋子上使用了一个墨水量十足的狮子头（右上），就不能再放其他复杂元素了（比如logo）。相对来说，左下角的图形（鸡、牛什么的）墨水量很少，就做成重复的纹理，增加了一点时尚感。
 
@@ -109,7 +109,7 @@ banner_image: /files/2017/03/apple-red-iphone.png
 
 **红白的搭档中，也可以加入黑色这个“第三者”。因为白色和黑色的天然无害属性，不会对红色的氛围传达有干扰。**你试试黄色或蓝色，就会马上产生冲突。
 
-![](/files/2017/03/apple-red-iphone-2.png)
+![](/files/2017/03/apple-red-iphone-2.jpg)
 
 其实仔细看苹果的摄像头就是黑色。
 
