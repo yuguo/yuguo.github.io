@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 从工程师到设计师
-date: 2017-10-11 20：00
+date: 2017-10-11 20:00
 categories: [设计]
 keywords: [微云]
 ---

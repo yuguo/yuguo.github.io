@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 初学者看的配色指南：从苹果的红色iPhone聊起
-date: 2017-03-23 19：00
+date: 2017-03-23 19:00
 categories: [设计]
 keywords: [设计, 配色, 红黑, 红白, 红黑白]
 banner_image: /files/2017/03/apple-red-iphone.jpg

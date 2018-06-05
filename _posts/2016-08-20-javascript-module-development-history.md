@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JavaScript模块化编程简史（2009-2016）
-date: 2016-08-24 19：00
+date: 2016-08-24 19:00
 comments: true
 categories: [前端]
 keywords: JavaScript, 模块化, CommonJS, AMD, module, ES6, babel, webpack

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NPM Scripts实战
-date: 2016-11-29 19：00
+date: 2016-11-29 19:00
 categories: [前端]
 keywords: [NPM Scripts, 前端, 构建, gulp]
 ---

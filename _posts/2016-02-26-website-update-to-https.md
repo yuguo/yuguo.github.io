@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 为什么要支持 https
-date: 2016-02-26 01：00
+date: 2016-02-26 01:00
 comments: true
 categories: [博客]
 keywords: jekyll, https, linode, gitpage

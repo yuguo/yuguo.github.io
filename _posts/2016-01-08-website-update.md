@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 小站升级：迁移到 linode
-date: 2016-01-08 15：51
+date: 2016-01-08 15:51
 comments: true
 categories: [博客]
 tags: featured

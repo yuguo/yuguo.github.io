@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Emoji-移动时代的巴别塔危机
-date: 2016-01-01 00：01
+date: 2016-01-01 00:01
 comments: true
 categories: [front-end]
 keywords: Emoji, 苹果, 微软, Android, 区别
@@ -68,7 +68,7 @@ Apple 让 emoji 真正成为了全世界通用的语言，这一方面归功于 
 
 ![Willem Van Lancker ](/files/2015/12/willem.jpg)
 
-这说明了好的设计师有多么重要，Apple Color Emoji 的成功固然有平台的因素，但是对比下各平台的 emoji 设计风格，还是不得不承认 Apple 的设计非常细致，情绪表达得很微妙，而且设计风格统一，比大部分设计都强。 
+这说明了好的设计师有多么重要，Apple Color Emoji 的成功固然有平台的因素，但是对比下各平台的 emoji 设计风格，还是不得不承认 Apple 的设计非常细致，情绪表达得很微妙，而且设计风格统一，比大部分设计都强。
 
 此外，从技术上讲，**Apple 实际上是设计了一款叫做 Apple Color Emoji 的字体，它包含了这些字符（而且字符数量持续增加中）**。这款字体首先在 OS X Lion 和 iOS 5 中亮相。
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 翻一下六年前的博客
-date: 2016-09-22 19：00
+date: 2016-09-22 19:00
 comments: true
 categories: [观点]
 keywords:
