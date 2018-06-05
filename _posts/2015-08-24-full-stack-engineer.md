@@ -76,7 +76,7 @@ banner_image: /files/2015/08/full-stack-engineer.jpg
 
 大家可以通过京东、天猫、亚马逊等各种渠道购买。各个渠道的打折力度不一样，大家自行对比啦。
 
-[JD购买渠道](http://item.jd.com/1694552729.html)
+[JD购买渠道](http://search.jd.com/Search?keyword=web%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB&enc=utf-8)
 
 [人民邮电出版社官方店](https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.31.Pua2ED&id=521322424749&areaId=440300&cat_id=2&rn=fda17b9ef3fcf90550be7aa880d8564e&user_id=2145487409&is_b=1)
 

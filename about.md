@@ -14,11 +14,11 @@ nav: true
 
 我叫余果，从2010年开始在腾讯工作，现在是腾讯 [ISUX](http://isux.tencent.com) 的前端开发团队leader、高级UI工程师、UI开发通道委员、腾讯云特邀布道师。
 
-喜欢写作，著书出版了[《Web全栈工程师的自我修养》](/weblog/full-stack-engineer/)，当周进入技术类畅销书排行榜前5名，并入选iWeb北京峰会推荐图书，一年内已经重印4次。
+喜欢写作，著书出版了[《Web全栈工程师的自我修养》](http://search.jd.com/Search?keyword=web%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB&enc=utf-8)，当周进入技术类畅销书排行榜前5名，并入选iWeb北京峰会推荐图书，一年内已经重印4次。
 
 相信英语对于程序员是很重要的能力，翻译了[《众妙之门3》](/weblog/isux-and-smashing-book/)和[《响应式web设计全流程解析》](/weblog/designers-should-learn-code/)。
 
-<a href="/weblog/full-stack-engineer/" title="Web全栈工程师的自我修养" class="about-books">
+<a href="http://search.jd.com/Search?keyword=web%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB&enc=utf-8" title="Web全栈工程师的自我修养" class="about-books">
 	<img src="/files/common/full-stack-engineer-thumb.jpg" alt="Web全栈工程师的自我修养">
 </a>
 <a href="/weblog/designers-should-learn-code/" title="响应式web设计全流程解析" class="about-books">

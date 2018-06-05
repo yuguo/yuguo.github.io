@@ -18,7 +18,7 @@ categories: [旅行]
 
 然后我在天猫搜索，发现有一些是硬质相册类，页数就比较少，另一种是照片书，页数可以多一点。
 
-我们平时读的书，比如我的[《Web全栈工程师的自我修养》](/weblog/full-stack-engineer/)，纸张大概是100克的。照片书使用200克的，所以厚度会厚一倍，完全满足我的需求了，于是我就决定在这一家打印照片书： [http://www.tockus.com/](http://www.tockus.com/)
+我们平时读的书，比如我的[《Web全栈工程师的自我修养》](http://search.jd.com/Search?keyword=web%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB&enc=utf-8)，纸张大概是100克的。照片书使用200克的，所以厚度会厚一倍，完全满足我的需求了，于是我就决定在这一家打印照片书： [http://www.tockus.com/](http://www.tockus.com/)
 
 因为我喜欢自定义版式，而tockus可以下载软件（支持OS X）来排版，然后直接支付和提交，所以也满足了我的需求。
 
