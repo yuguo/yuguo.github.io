@@ -358,6 +358,13 @@
 			padding-top: 30px;
 		}
 	}
+
+	.category {
+		color:#bbbbbb;
+		font-size:12px;
+		font-weight: normal;
+	}
+
 }
 
 .pagination {
@@ -413,12 +420,6 @@
 		&:hover {
 			color:#026ed2;
 		}
-	}
-
-    .category {
-		color:#bbbbbb;
-		font-size:12px;
-		font-weight: normal;
 	}
 
 	@media screen and (max-width: 595px) {
