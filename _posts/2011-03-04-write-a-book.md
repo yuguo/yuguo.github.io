@@ -6,7 +6,7 @@ comments: true
 categories: [back-end]
 ---
 
-**本文时间久远，链接已经失效。不过我在这几年中，我积累发布了一本新书，如果你感兴趣，请查看：[我出书了，《Web全栈工程师的自我修养》](http://yuguo.us/weblog/full-stack-engineer/)。**
+**本文时间久远，链接已经失效。不过我在这几年中，我积累发布了一本新书，如果你感兴趣，请查看：[我出书了，《Web全栈工程师的自我修养》](https://yuguo.us/weblog/full-stack-engineer/)。**
 
 最近没有更新博客，而是在另一个我创建的站点（[http://rebuildpattern.com](http://rebuildpattern.com)）上更新一些技术内容。
 
