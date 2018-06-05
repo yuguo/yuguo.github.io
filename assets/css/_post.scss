@@ -156,7 +156,7 @@
 			color: #D5D5D5;
 			text-transform: capitalize;
 		}
-		
+
 		i {
 			margin: 0 5px;
 		}
@@ -180,7 +180,7 @@
 		display: none;
 	}
 
-	
+
 	.warning {
 	    color: #8a6d3b;
 		background-color: #fcf8e3;
@@ -394,7 +394,7 @@
 		display: -ms-flexbox;
 		display: -webkit-flex;
 		display: flex;
-		    
+
 		justify-content: space-between;
 		align-items: baseline;
 		color: #3b3b3b;
@@ -404,7 +404,7 @@
 			font-weight: normal;
 		}
 
-		.category {
+		time {
 			color:#bbbbbb;
 			font-size:12px;
 			font-weight: normal;
@@ -415,7 +415,7 @@
 		}
 	}
 
-    time {
+    .category {
 		color:#bbbbbb;
 		font-size:12px;
 		font-weight: normal;
