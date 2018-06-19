@@ -62,7 +62,7 @@ layout: default
 
 		<section class="postbody">
 			{{ content }}
-			{% if post.external %}
+			{% if post.external != '' %}
 			<p><a href="{{ post.external }}" target="_blank">原文发表于：<span class="external-link">{{ post.title }}</span></a></p>
 			{% endif %}
 		</section>
