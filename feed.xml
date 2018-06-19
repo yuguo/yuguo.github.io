@@ -19,13 +19,8 @@
 					<description>{{ post.content | xml_escape }}</description>
 				{% endif %}
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-				{% if post.external %}
-					<link>{{ post.external }}</link>
-					<guid isPermaLink="true">{{ post.external }}</guid>
-				{% else %}
 					<link>{{ site.url }}{{ post.url }}</link>
 					<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-				{% endif %}
 			</item>
 		{% endfor %}
 	</channel>

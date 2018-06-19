@@ -24,15 +24,9 @@ nav: true
     <ul>
     {% for posts in category %}
       {% for post in posts %}
-       {% if post.external %}
-       <li>
-         <a href="{{ post.external }}" target="_blank"><span class="external-link">{{ post.title }}</span></a>
-         </li>
-       {% elsif post.url %}
        <li>
          <a href="{{ post.url | prepend: site.baseurl }}"><span>{{ post.title }}</span></a>
-         </li>
-       {% endif %}
+       </li>
       {% endfor %}
     {% endfor %}
     </ul>

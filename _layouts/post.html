@@ -62,6 +62,9 @@ layout: default
 
 		<section class="postbody">
 			{{ content }}
+			{% if post.external %}
+			<p><a href="{{ post.external }}" target="_blank">原文发表于：<span class="external-link">{{ post.title }}</span></a></p>
+			{% endif %}
 		</section>
 
 		<div class="postprofile">
@@ -81,7 +84,7 @@ layout: default
 
 		{% if page.comments %}
 		<div class="comments">
-			<a href="javascript:;" class="readmore smallbutton blue"><i class="fa fa-comments"></i>展开评论（需翻墙）...</a>
+			<a href="javascript:;" class="readmore smallbutton blue"><i class="fa fa-comments"></i>评论...</a>
 			<div id="disqus_thread"></div>
 			<div id="g-comments"></div>
 		</div>

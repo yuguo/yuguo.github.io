@@ -15,11 +15,7 @@ layout: default
 	{% for post in site.posts %}
 		<li class="post {% if post.featured == true %} featured {% endif %}">
 			<span class="category">{% for category in post.categories %}{{ category }}{% endfor %}</span>
-			{% if post.external %}
-			<a href="{{ post.external }}" target="_blank"><span class="external-link">{{ post.title }}</span>
-			{% else %}
 			<a href="{{ post.url | prepend: site.baseurl }}"><span>{{ post.title }}</span>
-			{% endif %}
 			<time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y-%m-%d" }}</time>
 			</a>
 		</li>
