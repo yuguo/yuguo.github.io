@@ -68,14 +68,12 @@ layout: default
 			<img src="{{ site.author_image }}" class="author" alt="user">
 			<div class="info">
 				<h4>{{ site.author_name }}</h4>
-				<a href="{{ site.author_url }}">{{ site.author_url }}</a>
-				<p>{{ site.author_bio }}</p>
+				<!-- <a href="{{ site.author_url }}">{{ site.author_url }}</a> -->
+				<p>{{ site.author_bio }} <a href="/about">关于我</a></p>
 				<ul class="social">
-
 					{% if site.medium_url != '' %}<li><a href="{{ site.medium_url }}" class="twitter" target="_blank"><i class="fa fa-medium"></i></a></li>{% endif %}
 					{% if site.twitter_url != '' %}<li><a href="{{ site.twitter_url }}" class="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>{% endif %}
 					{% if site.500px_url != '' %}<li><a href="{{ site.500px_url }}" class="twitter" target="_blank"><i class="fa fa-500px"></i></a></li>{% endif %}
-					
 					<li><a href="{{ site.baseurl }}/feed.xml" class="rss" target="_blank"><i class="fa fa-rss"></i></a></li>
 				</ul>
 			</div>
