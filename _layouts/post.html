@@ -13,6 +13,7 @@ layout: default
 	{% if site.author_image != "" %}<img src="{{ site.author_image }}" class="profileimage" alt="user">{% endif %}
 	<h4>{{ site.author_name }}</h4>
 	<ul>
+		{% if site.medium_url != '' %}<li><a href="{{ site.medium_url }}" class="smallsocialbutton medium" target="_blank"><i class="fa fa-medium"></i></a></li>{% endif %}
 		{% if site.twitter_url != '' %}<li><a href="{{ site.twitter_url }}" class="smallsocialbutton twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>{% endif %}
 		{% if site.github_url != '' %}<li><a href="{{ site.github_url }}" class="smallsocialbutton github" target="_blank"><i class="fa fa-github"></i></a></li>{% endif %}
 		<li><a href="{{ site.baseurl }}/feed.xml" class="smallsocialbutton rss" target="_blank"><i class="fa fa-rss"></i></a></li>
@@ -70,7 +71,10 @@ layout: default
 				<a href="{{ site.author_url }}">{{ site.author_url }}</a>
 				<p>{{ site.author_bio }}</p>
 				<ul class="social">
+
+					{% if site.medium_url != '' %}<li><a href="{{ site.medium_url }}" class="twitter" target="_blank"><i class="fa fa-medium"></i></a></li>{% endif %}
 					{% if site.twitter_url != '' %}<li><a href="{{ site.twitter_url }}" class="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>{% endif %}
+					{% if site.500px_url != '' %}<li><a href="{{ site.500px_url }}" class="twitter" target="_blank"><i class="fa fa-500px"></i></a></li>{% endif %}
 					{% if site.github_url != '' %}<li><a href="{{ site.github_url }}" class="github" target="_blank"><i class="fa fa-github-alt"></i></a></li>{% endif %}
 
 					<li><a href="{{ site.baseurl }}/feed.xml" class="rss" target="_blank"><i class="fa fa-rss"></i></a></li>

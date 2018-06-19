@@ -1,12 +1,12 @@
 <footer class="wrapper">
 	<div class="smallnav">
 		<a href="/">首页</a> ·
-		<a href="/weblog">博客</a> ·
-		<a href="http://search.jd.com/Search?keyword=web%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB&enc=utf-8">书</a> ·
+		{% if site.medium_url != '' %}<a href="{{ site.medium_url }}" class="twitter" target="_blank">Medium</a> ·{% endif %}
+		{% if site.twitter_url != '' %}<a href="{{ site.twitter_url }}" class="twitter" target="_blank">Twitter</a> ·{% endif %}
+		{% if site.500px_url != '' %}<a href="{{ site.500px_url }}" class="twitter" target="_blank">500px</a> ·{% endif %}
 		<a href="/about">关于</a>
 	</div>
 	<div>
-		Copyright &copy; <a href="{{ site.baseurl }}/">{{ site.title }}</a>. {{ site.time | date: '%Y' }} · All rights reserved.
-		<span class="ghost">Proudly published with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.</span>
+
 	</div>
 </footer>
