@@ -4,9 +4,8 @@ title: 在腾讯的八年，我的职业思考
 date: 2018-07-18 24:00
 categories: [总结]
 keywords: 工作总结
+banner_image: /files/2018/tencent-8-years.jpg
 ---
-
-![腾讯八周年](/files/2018/tencent-8-years.jpg)
 
 ## 一、
 
