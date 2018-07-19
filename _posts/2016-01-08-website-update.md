@@ -13,7 +13,7 @@ banner_image: /files/2016/01/joshua-tree-national-park.jpg
 
 <!--more-->
 
-<div class="warning">本文写于2016年1月，到现在，本站的服务器已经发生了变化，请以最新的文章为准😜。</div>
+<div class="warning">本文写于2016年1月。到现在，本站的服务器已经迁移到腾讯云，但是以下原理完全一致😜。</div>
 
 ## 迁移到到 linode vps
 
