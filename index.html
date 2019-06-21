@@ -3,16 +3,13 @@ layout: default
 keywords: [余果, yuguo]
 ---
 
-
 <div class="profile">
 	{% if site.logourl != "" %}<img src="{{ site.logourl | prepend: site.baseurl }}" class="profileimage" alt="user">{% endif %}
 	<h4>{{ site.author_name }}</h4>
 	<p>{{ site.author_bio }}</p>
-	<hr>
 </div>
 
 <section class="posts postindex wrapper">
-
 	<ul>
 	{% for post in site.posts %}
 		<li class="post {% if post.featured == true %} featured {% endif %}">
