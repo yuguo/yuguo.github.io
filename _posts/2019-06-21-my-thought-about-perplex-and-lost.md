@@ -2,7 +2,7 @@
 layout: post
 title: 关于停滞和迷茫，我怎么看
 date: 2019-06-21 00:00
-categories: [思考]
+categories: [观点]
 keywords: 工作总结
 ---
 
