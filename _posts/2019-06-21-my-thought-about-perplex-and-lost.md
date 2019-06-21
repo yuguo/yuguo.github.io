@@ -1,10 +1,9 @@
 ---
 layout: post
-title: 在腾讯的八年，我的职业思考
+title: 关于停滞和迷茫，我怎么看
 date: 2019-06-21 24:00
 categories: [思考]
 keywords: 工作总结
-banner_image: /files/2019/tencent-8-years.jpg
 ---
 
 
