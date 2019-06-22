@@ -3,7 +3,7 @@ layout: post
 title: 从声讨百度看韩寒的carry能力
 date: 2011-03-26 16:34
 comments: true
-categories: [观点]
+categories: [想法]
 ---
 前因后果可以看韩寒的两篇博文：
 [为了食油，声讨百度](http://blog.sina.com.cn/s/blog_4701280b01017ijd.html)[给李彦宏先生的一封信](http://blog.sina.com.cn/s/blog_4701280b01017ijj.html)

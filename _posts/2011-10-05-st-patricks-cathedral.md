@@ -3,7 +3,7 @@ layout: post
 title: 圣巴特里爵主教座堂
 date: 2011-10-05 03:11
 comments: true
-categories: [观点]
+categories: [想法]
 ---
 
 去武汉的时候买了一盒3D拼图送给小平，买回来之后两个人花了一些零碎时间拼好了~发图上来得瑟一下~

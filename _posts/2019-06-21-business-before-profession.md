@@ -2,7 +2,7 @@
 layout: post
 title: 首先是业务，其次是专业
 date: 2019-06-21 01:00
-categories: [观点]
+categories: [想法]
 keywords: 工作总结
 ---
 

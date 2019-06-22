@@ -3,7 +3,7 @@ layout: post
 title: 论文……若实在要说学到了什么
 date: 2010-06-10 01:16
 comments: true
-categories: [观点]
+categories: [想法]
 ---
 
 总算进入尾声，论文终稿，翻译也完结，11号就答辩，如果一切顺利，我就算圆满毕业了。实在要总结这段期间的经验的话：

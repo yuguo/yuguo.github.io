@@ -3,7 +3,7 @@ layout: post
 title: 介绍thn.gs
 date: 2011-12-20 20:53
 comments: true
-categories: [观点]
+categories: [想法]
 ---
 
 今天发现一个非常不错的管理项目的GTD online app： <a href="http://thn.gs/">http://thn.gs</a>。

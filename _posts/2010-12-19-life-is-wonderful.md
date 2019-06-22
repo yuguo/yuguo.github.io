@@ -3,7 +3,7 @@ layout: post
 title: 哪一种生活不美好？
 date: 2010-12-19 02:14
 comments: true
-categories: [观点]
+categories: [想法]
 ---
 生活总不是那么令人满意的。
 

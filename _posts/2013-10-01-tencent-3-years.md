@@ -3,7 +3,7 @@ layout: post
 title: 腾讯三年
 date: 2013-10-01 10:40
 comments: true
-categories: [观点]
+categories: [想法]
 ---
 
 博客停了一个多月，期间也想过写一些东西，但都是在evernote里起草了部分之后又觉得自己文笔和思路都不够好，就删掉了。这两个月发生的事情非常多，我就随意记录一下，谈谈我的想法吧。

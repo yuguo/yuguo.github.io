@@ -3,7 +3,7 @@ layout: post
 title: 达人访谈
 date: 2014-12-15 12:35
 comments: true
-categories: [观点]
+categories: [想法]
 keywords: 全栈工程师
 ---
 

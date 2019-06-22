@@ -3,7 +3,7 @@ layout: post
 title: 真正的危机
 date: 2010-11-13 16:43
 comments: true
-categories: [观点]
+categories: [想法]
 ---
 
 收到老板pony发给全体员工的内部邮件。逻辑非常清晰严密，其中让我感触最深的是两句话：

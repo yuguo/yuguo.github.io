@@ -3,7 +3,7 @@ layout: post
 title: 有兴趣就够了吗？
 date: 2014-02-13 20:35
 comments: true
-categories: [观点]
+categories: [想法]
 ---
 
 2012年我组织ISUX设计团队十来个人一起翻译了一本[《Smashing Book

@@ -3,7 +3,7 @@ layout: post
 title: 作为一个Web开发者，有多大的压力？
 date: 2016-05-13 19:00
 comments: true
-categories: [观点]
+categories: [想法]
 tags: featured
 keywords: 思维
 ---

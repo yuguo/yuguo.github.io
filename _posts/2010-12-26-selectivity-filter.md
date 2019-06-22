@@ -3,7 +3,7 @@ layout: post
 title: 选择性过滤
 date: 2010-12-26 14:06
 comments: true
-categories: [观点]
+categories: [想法]
 ---
 
 这是我从<a href="http://bu-anjing.com/">李贺</a>那里学来的一个词。

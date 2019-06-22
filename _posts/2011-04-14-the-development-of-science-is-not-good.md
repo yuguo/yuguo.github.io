@@ -3,7 +3,7 @@ layout: post
 title: 为什么要推崇科技进步？
 date: 2011-04-14 19:31
 comments: true
-categories: [观点]
+categories: [想法]
 ---
 
 这是我内心的质疑。我从小被灌输的就是科技进步是好的，值得赞赏的。

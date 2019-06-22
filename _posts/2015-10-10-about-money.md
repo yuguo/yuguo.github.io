@@ -3,7 +3,7 @@ layout: post
 title: 程序员应该学的投资
 date: 2015-10-10 20:00
 comments: true
-categories: [观点]
+categories: [想法]
 keywords: 全栈工程师
 ---
 

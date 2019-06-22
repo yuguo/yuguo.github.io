@@ -3,7 +3,7 @@ layout: post
 title: 内衣很重要
 date: 2011-02-02 00:21
 comments: true
-categories: [观点]
+categories: [想法]
 ---
 
 我认为内衣的选择是很重要的，无论男人还是女人。我想我也会爱上赞同此价值观的人。

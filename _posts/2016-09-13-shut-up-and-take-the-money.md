@@ -3,7 +3,7 @@ layout: post
 title: 为什么有些人赚钱那么轻松？
 date: 2016-09-13 19:00
 comments: true
-categories: [观点]
+categories: [想法]
 keywords: 中介费
 ---
 

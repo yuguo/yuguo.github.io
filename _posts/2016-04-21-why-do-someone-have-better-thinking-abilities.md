@@ -3,7 +3,7 @@ layout: post
 title: 为什么有些人的思维能力强于其他人
 date: 2016-04-21 19:00
 comments: true
-categories: [观点]
+categories: [想法]
 tags: featured
 keywords: 思维
 ---

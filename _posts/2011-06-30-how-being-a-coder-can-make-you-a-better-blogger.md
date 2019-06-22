@@ -3,7 +3,7 @@ layout: post
 title: 编程让你更好地写博客
 date: 2011-06-30 18:59
 comments: true
-categories: [观点]
+categories: [想法]
 ---
 
 我在《<a href="http://rebuildpattern.com/node/18">重构模式</a>》里面说过：“我是一个全职前端开发者，我一天到晚都在写作——用CSS表达自己的观点和哲学”。
