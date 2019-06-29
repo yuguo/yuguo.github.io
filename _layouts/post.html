@@ -46,15 +46,13 @@ layout: default
 
 		<header>
 			<div class="feature"><span>Featured</span><i class="fa fa-bookmark fa-lg"></i></div>
-			<h2>
-				{% for category in page.categories %}
-					{{ category }}
-				{% endfor %}
-			</h2>
 			<h1 id="posttitle">{{ page.title }}</h1>
 			<span>
-				Posted by <a href="{{author.website}}" target="_blank">{{ site.author_name }}</a>
-				on <i class="fa fa-clock-o"></i> <time datetime="{{ page.date| date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d, %Y" }}</time>.
+				<a href="{{author.website}}" target="_blank">{{ site.author_name }}</a>
+				 <i class="fa fa-clock-o"></i> <time datetime="{{ page.date| date: "%Y-%m-%d" }}">{{ page.date | date: "%Y-%m-%d" }}</time>
+				 {% for category in page.categories %}
+ 					{{ category }}
+ 				 {% endfor %}
 			</span>
 		</header>
 

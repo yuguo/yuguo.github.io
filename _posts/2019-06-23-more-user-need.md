@@ -2,7 +2,7 @@
 layout: post
 title: 我们常常讨论问题太少，讨论解决方案太多
 date: 2019-06-23 09:00
-categories: [设计]
+categories: [产品设计]
 banner_image: /files/2019/06/weiyun-app-store.jpg
 ---
 
