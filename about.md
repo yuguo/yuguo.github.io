@@ -16,7 +16,7 @@ nav: true
 
 热爱互联网行业，记录工作心得，著书出版了[《Web全栈工程师的自我修养》](http://search.jd.com/Search?keyword=web%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB&enc=utf-8)，当周进入技术类畅销书排行榜前5名，并入选iWeb北京峰会推荐图书，一年内已经重印4次。
 
-相信英语对于设计师和程序员是很重要的能力，翻译了[《众妙之门3》](/weblog/isux-and-smashing-book/)和[《响应式web设计全流程解析》](/weblog/designers-should-learn-code/)。
+我翻译了[《众妙之门3》](/weblog/isux-and-smashing-book/)和[《响应式web设计全流程解析》](/weblog/designers-should-learn-code/)。
 
 <a href="http://search.jd.com/Search?keyword=web%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB&enc=utf-8" title="Web全栈工程师的自我修养" class="about-books">
 	<img src="/files/common/full-stack-engineer-thumb.jpg" alt="Web全栈工程师的自我修养">
@@ -34,4 +34,4 @@ nav: true
 * [github](http://github.com/yuguo)
 * [medium](https://medium.com/@yuguo/)
 
-若希望与我联系，可发邮件至 [me@yuguo.us](mailto:me@yuguo.us) 
+若希望与我联系，可发邮件至 [me@yuguo.us](mailto:me@yuguo.us)
