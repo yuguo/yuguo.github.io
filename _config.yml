@@ -4,7 +4,7 @@ url:						"https://yuguo.us"
 email: 						"me@yuguo.us"
 description: 			"一个跨界学习者，《Web全栈工程师的自我修养》作者。"
 baseurl: 					""
-logourl: 					"/files/common/avatar.jpg"
+logourl: 					"https://yuguous-10027517.cos.ap-shanghai.myqcloud.com/common/avatar.jpg"
 fa-logo: 					"fa-camera-retro"
 
 # Author Settings
@@ -12,7 +12,7 @@ author_name: 				"余果"
 author_url: 				"https://yuguo.us"
 author_bio: 				"一个跨界学习者，《Web全栈工程师的自我修养》作者。"
 author_email: 				"me@yuguo.us"
-author_image: 				"/files/common/avatar.jpg"
+author_image: 				"https://yuguous-10027517.cos.ap-shanghai.myqcloud.com/common/avatar.jpg"
 
 # Theme Settings
 theme_disqus_shortname: 	"yuguo"
