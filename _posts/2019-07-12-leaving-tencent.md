@@ -29,7 +29,7 @@ categories: [总结]
 
 还有业务部门的经理、开发总监甚至VP，也很信任地给我机会做一些项目策划的事情，从项目和用户体验的源头去策划需求，而不是接到一个需求然后去做。我在项目中学到很多产品闭环的知识，也从ISUX中学到很多专业细分的东西。
 
-![社交线的老板Ross送我的临别礼物](https://yuguous-10027517.cos.ap-shanghai.myqcloud.com/weblog/leaving-tencent-4.jpg)
+![社交线的老板Ross送我的临别礼物](https://yuguous-10027517.cos.ap-shanghai.myqcloud.com/2019/leaving-tencent-4.jpg)
 
 上图是社交线的老板Ross送我的临别礼物
 
@@ -39,7 +39,7 @@ categories: [总结]
 
 真心推荐朋友们加入腾讯、**[加入ISUX](https://isux.tencent.com)** （我在的部门）。
 
-![ISUX的总监和leader们给我签名的临别礼物](https://yuguous-10027517.cos.ap-shanghai.myqcloud.com/weblog/leaving-tencent-3.jpg)
+![ISUX的总监和leader们给我签名的临别礼物](https://yuguous-10027517.cos.ap-shanghai.myqcloud.com/2019/leaving-tencent-3.jpg)
 
 上图是ISUX所有总监和leader们给我的临别签名礼
 
@@ -61,7 +61,7 @@ categories: [总结]
 
 我用“毕业”这个词，因为腾讯对毕业生而言，不太像一个企业，而像大学的延续。作为“优等生”，我可以一直不交卷。腾讯专业线和KPI设置一些高度抽象的、与现实有些脱节的目标（恕我直言，比如在某些产品目标上分解得太细，让你的目光都一直聚焦在方片之间），但是我越来越想要成为一个能力闭环的人，看到全局的人，生命力坚韧的人。
 
-![](https://yuguous-10027517.cos.ap-shanghai.myqcloud.com/weblog/leaving-tencent-1.jpg)
+![](https://yuguous-10027517.cos.ap-shanghai.myqcloud.com/2019/leaving-tencent-1.jpg)
 
 我不会狂妄地觉得自己已经学不到东西了，我在一些细分的专业领域仍然有很多可以学习，但在想要做全流程价值设计这个课题上，我想要有突破。
 
@@ -171,4 +171,4 @@ categories: [总结]
 
 感谢所有的同事朋友，很幸运遇到你们，我从每一个人身上都学到很多，也度过了最美好的一段时光，我们有缘再见。
 
-![](https://yuguous-10027517.cos.ap-shanghai.myqcloud.com/weblog/leaving-tencent-2.jpg)
+![](https://yuguous-10027517.cos.ap-shanghai.myqcloud.com/2019/leaving-tencent-2.jpg)
