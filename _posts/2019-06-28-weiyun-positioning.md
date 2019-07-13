@@ -3,7 +3,6 @@ layout: post
 title: 在产品成长期，如何决策要不要做新功能
 date: 2019-06-28 09:00
 categories: [产品设计]
-banner_image: /files/2019/06/weiyun-app-store.jpg
 ---
 
 上一篇博客中，我们遇到的问题是“是否需要在照片流中自动隐藏娱乐视频（比如影视剧集）”。
