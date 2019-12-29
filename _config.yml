@@ -2,7 +2,7 @@
 title: 						"余果的博客"
 url:						"https://yuguo.us"
 email: 						"me@yuguo.us"
-description: 			"一个产品设计师"
+description: 			"一个产品设计师。"
 baseurl: 					""
 logourl: 					"https://yuguous-10027517.cos.ap-shanghai.myqcloud.com/common/avatar.jpg"
 fa-logo: 					"fa-camera-retro"
@@ -10,7 +10,7 @@ fa-logo: 					"fa-camera-retro"
 # Author Settings
 author_name: 				"余果"
 author_url: 				"https://yuguo.us"
-author_bio: 				"一个产品设计师"
+author_bio: 				"一个产品设计师。"
 author_email: 				"me@yuguo.us"
 author_image: 				"https://yuguous-10027517.cos.ap-shanghai.myqcloud.com/common/avatar.jpg"
 
